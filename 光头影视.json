@@ -82,16 +82,6 @@
       "ext": "http://www.aueteys.com/"
     },
     {
-			"key": "csp_Ikanbot",
-			"name": "爱看排序",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://download.kstore.space/download/4127/Xiang.txt",
-			"ext":"[排序:lx线路,bfzy线路,kuaik]"
-		},
-    {
       "key": "zxzj",
       "name": "在线┃直连",
       "type": 3,
@@ -293,18 +283,38 @@
       "type": 0,
       "url": "https://jx.zhanlangbu.com/?url="
     },
+     {
+      "name": "聚合1",
+      "type": 3,
+      "url": "Demo"
+    },
     {
       "name": "聚合0",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "网络",
+      "name": "公众号11",
       "type": 1,
-      "url": "http://119.91.123.253:1234/Api/cs.php?url="
+      "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "YuMi-vip"
+        ]
+      }
     },
     {
-      "name": "大家",
+      "name": "神秘的哥哥们",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -333,7 +343,6 @@
         }
       }
     }
-   
   ],
   "rules": [
     {
@@ -346,6 +355,15 @@
       "regex": [
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "农民",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
       ]
     },
     {
@@ -403,7 +421,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -452,5 +470,3 @@
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ]
 }
-
-
