@@ -1,8 +1,10 @@
 {
+  "spider": "./fty.jar;md5;9c19e5e073a7f0bd30fed7305fe1bfba",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
       "key": "豆豆",
-      "name": "微信同步",
+      "name": "🌕公众号【神秘的哥哥们】",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
