@@ -342,6 +342,11 @@
     }
   ],
   "parses": [
+      {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
     {
       "name": "聚合1",
       "type": 3,
@@ -351,11 +356,6 @@
       "name": "聚合0",
       "type": 3,
       "url": "Web"
-    },
-      {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url="
     },
     {
       "name": "公众号11",
