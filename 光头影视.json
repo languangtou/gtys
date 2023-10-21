@@ -549,7 +549,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gh-proxy.com/jihulab.com/zuiju/lanjingling/-/raw/main/光头直播.txt",
+      "url": "http://jihulab.com/zuiju/lanjingling/-/raw/main/光头直播.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
