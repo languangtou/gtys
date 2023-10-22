@@ -138,17 +138,6 @@
       "changeable": 1
     },
     {
-      "key": "贱贱",
-      "name": "贱贱┃p2p",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js",
-      "ext": "https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"
-    },
-    {
       "key": "探探",
       "name": "影探┃App",
       "type": 3,
@@ -290,8 +279,8 @@
       "key": "360",
       "name": "360 官源|T追剧",
       "type": 3,
-      "api": "csp_360",
-      "searchable": 1,
+      "api": "csp_360"
+     "searchable": 1,
       "filterable": 1,
       "changeable": 1
     },
@@ -300,6 +289,7 @@
       "name": "奇艺官源|T追剧",
       "type": 3,
       "api": "csp_IQIYI",
+      "ext":"http://jihulab.com/zuiju/lanjingling/-/blob/main/lib/奇珍异兽.js"
       "searchable": 1,
       "filterable": 1,
       "changeable": 1
