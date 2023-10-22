@@ -275,52 +275,6 @@
       "filterable": 1,
       "ext": "http://api.jialiangos.com:88/api.php/app/"
     },
-        {
-      "key": "360",
-      "name": "360 官源|T追剧",
-      "type": 3,
-      "api": "csp_360"
-     "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "奇艺",
-      "name": "奇艺官源|T追剧",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "ext":"http://jihulab.com/zuiju/lanjingling/-/blob/main/lib/奇珍异兽.js"
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "腾讯",
-      "name": "腾讯官源|T追剧",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "芒果",
-      "name": "芒果官源|T追剧",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "优酷",
-      "name": "优酷官源|T追剧",
-      "type": 3,
-      "api": "csp_YOUKU",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
     {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
