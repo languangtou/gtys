@@ -1,8 +1,18 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/custom_spider_stable.jar;md5;9C19E5E073A7F0BD30FED7305FE1BFBA",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "接口免费使用 光头祝你观影愉快]",
+  "warningText": "码上放生公众号免费整理维护：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
+    {
+      "key": "dr_时光机在线豆瓣",
+      "name": "✨领先版时光机💢v20231022-577",
+      "type": 3,
+      "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/豆瓣.js"
+    },
     {
       "key": "豆豆",
       "name": "光头祝你观影愉快",
