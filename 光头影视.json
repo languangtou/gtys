@@ -4,11 +4,11 @@
       "key": "豆瓣",
       "name": "光头影视",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/merge.min.js",
+      "api": "https://ghproxy.com/https://github.com/bestpvp/tm/blob/main/source/stable/merge.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/豆瓣.js"
+      "ext": "https://ghproxy.com/https://github.com/languangtou/tm/blob/main/source/stable/%E8%B1%86%E7%93%A3.js"
     },
     {
       "key": "csp_WoGG",
