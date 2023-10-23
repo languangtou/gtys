@@ -355,7 +355,6 @@
       "jar": "http://我不是.肥猫.love:63/Jar/Appto.jar;md5;2138f6a22c9ced72f15e0618606f3cfa",
       "api": "csp_Appto",
       "ext": "|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
       {
       "key": "drpy_js_热剧猫",
@@ -366,7 +365,6 @@
       "filterable": 1,
       "api": "http://alist.xn--z7x900a.love:63/ddrpy2.m.js",
       "ext": "http://alist.xn--z7x900a.love:63/热剧猫[V2].js"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
      {
       "key": "嘉靓",
@@ -377,8 +375,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://api.jialiangos.com:88/api.php/app/"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
     {"key":"U酷资源","name":"U酷资源(优)","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
@@ -421,7 +417,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
      {
       "key": "影探VIP",
@@ -432,7 +427,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
        {
       "key": "qiyue",
@@ -444,7 +438,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://我不是.肥猫.love:63/json/七月影视.json"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
       {
       "key": "鸭鸭",
@@ -455,7 +448,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     },
       {
       "key": "量子",
@@ -464,7 +456,6 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "changeable": 1
-        "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;9c19e5e073a7f0bd30fed7305fe1bfba"
     }
   ],
   "parses": [
