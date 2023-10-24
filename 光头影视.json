@@ -15,14 +15,13 @@
   ],
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "光头祝你观影愉快",
+      "key": "豆豆",
+      "name": "吉祥如意",
       "type": 3,
-      "api": "https://ghproxy.com/https://raw.githubusercontent.com/languangtou/tm/main/source/stable/merge.min.js",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.com/https://raw.githubusercontent.com/languangtou/tm/main/source/stable/%E8%B1%86%E7%93%A3.js"
+      "filterable": 0
     },
       {
       "key": "爱奇异",
