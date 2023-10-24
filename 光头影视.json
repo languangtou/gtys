@@ -85,14 +85,25 @@
       "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/py_cctv.py",
       "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
     },
-    {
-      "key": "YGP",
-      "name": "叨观荐影┃速递",
+        {
+      "key": "csp_xBPQ_奇优",
+      "name": "奇优影视|T追剧",
       "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/奇优影视.json"
+    },
+      {
+      "key": "csp_好戏",
+      "name": "好戏影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/好戏影视.json"
     },
     {
       "key": "Czsapp",
@@ -124,6 +135,76 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./sub/sc1080.json"},
+         {
+      "key": "csp_淘剧",
+      "name": "淘剧影院|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/淘剧影院.json"
+    },
+      {
+      "key": "csp_TVB",
+      "name": "TVB云播|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/TVB云播.json"
+    },
+      {
+      "key": "csp_91",
+      "name": "玖摇影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/91影视.json"
+    },
+      {
+      "key": "csp_土豪",
+      "name": "土豪影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/土豪影视.json"
+    },
+       {
+      "key": "csp_苹果",
+      "name": "苹果影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/苹果影视.json"
+    },
+      {
+      "key": "csp_米爱",
+      "name": "米爱影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/米爱影视.json"
+    },
+        {
+      "key": "csp_蛋蛋",
+      "name": "蛋蛋影视|T追剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/蛋蛋影视.json"
+    },
     {
       "key": "橘子",
       "name": "橘子┃App",
@@ -133,15 +214,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbc1AGIRPUzIPtbexyEhcScOf53TW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KzfJ8GvG6ETdzBCbfFw0WuoidvgjRb4EpUL8NqDk4unKXRBhjcoD99QoAIMsLc24lek3u9uBO+6JFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmfepqhEHQ08b/50BTD4Smp257RWMVpiQ1Tu3ht+MPo7oQAceapuyQGcL2fslXXHVrrb+9pyjtI9Qzph9HFoNJPIj5EXV+qGRI0CjSm9Dbm5nQFlZ6G2jvORw+5LMziXmuxDZH4U7qpnfjh/8hAu18546qyGmiWVI2mfDrKkVmeLq1KFA0rA="
-    },
-    {
-      "key": "JOJO",
-      "name": "JOJO┃直连",
-      "type": 3,
-      "api": "csp_JOJO",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "一起看 ",
