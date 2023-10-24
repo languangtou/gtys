@@ -1,7 +1,7 @@
 {
    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/custom_spider_stable.jar;md5;9C19E5E073A7F0BD30FED7305FE1BFBA",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "光头祝你观影愉快",
+  "warningText": "吉祥如意开门大吉",
     "lives": [
     {
       "name": "live",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "吉祥如意",
+      "name": "吉祥如意光头祝你观影愉快",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -409,11 +409,6 @@
         }
       }
     },
-      {
-      "name": "爱奇",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
     {
       "name": "腾讯",
       "type": 0,
@@ -449,149 +444,9 @@
       }
     },
     {
-      "name": "优酷",
-      "type": 0,
-      "url": "https://www.ckmov.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "西瓜",
-      "type": 0,
-      "url": "https://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SLYS4k",
-          "BYGA",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ]
-      }
-    },
-    {
-      "name": "搜狗",
-      "type": 1,
-      "url": "https://www.itvbox.cc/bhc.php?url="
-    },
-    {
-      "name": "分享",
-      "type": 0,
-      "url": "https://vip.bljiex.com/?v=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "TV",
-      "type": 1,
-      "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
       "name": "聚合1",
       "type": 3,
       "url": "Demo"
-    },
-    {
-      "name": "聚合0",
-      "type": 3,
-      "url": "Web"
     },
     {
       "name": "神秘的哥哥们",
