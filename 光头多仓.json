@@ -2,9 +2,9 @@
 
 "storeHouse": [
 
-{"sourceName": "http://jihulab.com/zuiju/lanjingling/-/raw/main/光头影视.json"},
+{"sourceName":"光头优选", "http://jihulab.com/zuiju/lanjingling/-/raw/main/光头影视.json"},
 
-{"sourceName": "http://jihulab.com/zuiju/gulang/-/raw/main/光头哥.json.json"}
+{"sourceName":"光头公众", "http://jihulab.com/zuiju/gulang/-/raw/main/光头哥.json.json"}
 
 
 ]
