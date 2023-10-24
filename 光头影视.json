@@ -1,7 +1,7 @@
 {
    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/custom_spider_stable.jar;md5;9C19E5E073A7F0BD30FED7305FE1BFBA",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "吉祥如意开门大吉",
+  "warningText": "光头祝你观影愉快",
     "lives": [
     {
       "name": "live",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "吉祥如意光头祝你观影愉快",
+      "name": "吉祥如意开门大吉",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -632,5 +632,7 @@
     "iqiyi.hbuioo.com",
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
-  ]
+  ],
+  "spider": "./YSC.jar;md5;5e6b85d785a99b75023824e9bd3e9ce5",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
 }
