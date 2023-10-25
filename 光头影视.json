@@ -114,6 +114,16 @@
       "changeable": 1,
       "ext": "http://www.aueteys.com/"
     },
+    {"key":"天天视频","name":"天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"圣城影视","name":"圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/sc1080.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/changmeng.js","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"农民影视","name":"农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/nongmin.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"酷云77","name":"酷云┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"348影视","name":"348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/348.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"}
+    ,{"key":"速看","name":"速看100","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/voflix.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"低端影视","name":"低端┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/diduan.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/555.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/天空资源.json"},
     {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
