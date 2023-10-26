@@ -1,7 +1,7 @@
 {
     "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;fb5c876ad4c3ec2fa09733e74af98211",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText": "光头祝你观影愉快",
+  "warningText": "吉祥如意开门大吉",
     "lives": [
     {
       "name": "live",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "吉祥如意开门大吉",
+      "name": "光头祝你观影愉快",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -75,17 +75,6 @@
       "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
     },
     {
-      "key": "py_cctv",
-      "name": "CCTV",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/py_cctv.py",
-      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
       "key": "一起看 ",
       "name": "一起┃App",
       "type": 3,
@@ -123,6 +112,16 @@
       "quickSearch": 0,
       "changeable": 0,
      "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "玩偶哥哥┃4K(弹幕测试)",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$关"
     },
        {
       "key": "追忆",
@@ -238,6 +237,15 @@
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
     },
+    {
+      "key":"相声小品",
+      "name":"相声小品",
+      "type":3,
+      "api":"csp_Bili"
+      ,"searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./sub/Blixs.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
       {
       "key": "非凡资源",
       "name": "非凡资源",
