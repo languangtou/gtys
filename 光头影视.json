@@ -195,15 +195,6 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
    },
    {"key":"狐狸","name":"狐狸蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/" ,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
-           {
-            "key": "csp_SNzy",
-            "name": "┃索尼┃高清",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-           "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
            {"key":"瑞丰","name":"瑞丰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
