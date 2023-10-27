@@ -15,6 +15,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
+    {"key":"相声小品","name":"相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://jihulab.com/zuiju/lanjingling/-/raw/main/相声小品"},
        {
       "key": "演唱会",
       "name": "经典演唱会",
