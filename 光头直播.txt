@@ -1,4 +1,3 @@
-央视,#genre#
 DAUMPLAYLIST
 playname=
 topindex=0
