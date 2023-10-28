@@ -291,6 +291,17 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 歌曲,#genre#
+最炫民族风,https://cf-sycdn.kuwo.cn/6de542f9541efc6ff557f8acdb38c21d/653d12ed/resource/m3/32/4/3350871383.mp4
+2020年第一场雪,https://lr-sycdn.kuwo.cn/06ff3f55795ef6c71a87f604531f9e31/653d135e/resource/m3/88/99/3250519077.mp4
+黄昏,https://other-web-nf03-sycdn.kuwo.cn/b144eeec18da88ac15c51186f73c5aa0/653d1407/resource/m2/77/99/2509115368.mp4
+寂寞沙洲冷,https://lu-sycdn.kuwo.cn/596a8751ab3a79c94c5144d276a67fbf/653d144d/resource/m3/50/98/2394828125.mp4
+过火,https://other-web-rc03-sycdn.kuwo.cn/69e8f9e1ba7cc47bacbb4353fb6f2d78/653d14de/resource/m3/28/79/2593157314.mp4
+爱如潮水,https://other-web-nf03-sycdn.kuwo.cn/65ba8df4cfd61c117768744cd6ad9acf/653d155d/resource/m3/38/29/2535637749.mp4
+爱就一个字,https://other-web-nf03-sycdn.kuwo.cn/35b7159f278931fce9f779b91b9d3053/653d15c0/resource/m1/25/60/386182240.mp4
+挪威的森林,https://lu-sycdn.kuwo.cn/44f0e5effd0b64504181987c8d14bf16/653d15f3/resource/m3/55/54/243655403.mp4
+痛苦的人,https://other-web-nf03-sycdn.kuwo.cn/f2fd3851475d753d3a035a4bd03c3021/653d161e/resource/m1/87/27/2642982663.mp4
+突然的自我,https://v3-xg-web-pc.ixigua.com/a88acda5870383d7619584ad6e78ef22/653d259c/video/tos/cn/tos-cn-ve-4/okwU0XnEIOmdGA93FA4DgkUBCQAMWEVsEQoxI/?a=1768&ch=0&cr=0&dr=0&er=0&cd=0%7C0%7C0%7C0&br=477&bt=477&cs=0&ds=1&eid=24576&ft=b4ktgmmnPD1_v4LOc9w6Kjq~hd.KJngT03-Ap&mime_type=video_mp4&qs=0&rc=OWRkZTs8PGhpZjNpNzdkO0BpM2s2MzY2NDR0cTMzODczM0A1Xl8yNmAzNTIxNGJgLmIvYSNnNmZeYmsxLTZfLS0xLS9zcw%3D%3D&btag=e00028000&dy_q=1698502324&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20231028221204E8CCA341B87204E43E6A&__vid=v02004450000bn9q0141n3e3a0i39hj0
+一万个理由,https://lu-sycdn.kuwo.cn/06d0f77f152d3165fc0b8a711e489970/653d1743/resource/m1/55/60/2810544468.mp4
 凤凰传奇-策马奔腾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042013&response=res&format=mp4&type=convert_url
 凤凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
 白狐,https://vd3.bdstatic.com/mda-mbqpyp15x44rfk9j/v1-cae/sc/mda-mbqpyp15x44rfk9j.mp4
