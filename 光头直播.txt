@@ -64,21 +64,13 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 
 
 CCTV1,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+
+
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225630/2/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
-CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225918/2/index.m3u8
+
+
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 
-
-CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
-CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
-CCTV3,http://59.47.226.94:8880/sql/2594/hls.m3u8
 
 
 地方,#genre#
@@ -288,7 +280,3 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-
-歌曲,#genre#
-戴荃-八戒,https://cloud-cdn.yinyuetai.com/68271b506c9e71eeb1e90666a2ec0102/a23878108dbae6c01f2c0457d66cd175-hd.mp4?w=1920&h=1080&sign=1698557267-vuarc1w4ns44um5y1rrb9cfm081e7qqv-0-32d69936e1d18a41aa9c9dae45c23755
-杨乃文-落日飞车,https://cloud-cdn.yinyuetai.com/e0565fa068cf71eeaf491776b3cf0102/38c9feefda5b2d8ba84b0b2cbe325183-hd.mp4?w=1920&h=816&sign=1698557552-x80o1qdhrxzvw3m-0-791b5e5a127fa43187515bf1cb72c3c2
