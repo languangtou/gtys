@@ -74,11 +74,13 @@ CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225642/2/
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225762/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225918/2/index.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
+CCTV1,https://ldncctvwbcdali.v.myalicdn.com/ldncctvwbcd/cdrmldcctv1_1td.m3u8
 
 
 CCTV3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225634/2/index.m3u8
 CCTV3,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV3,http://59.47.226.94:8880/sql/2594/hls.m3u8
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv3_1td.m3u8
 
 
 
