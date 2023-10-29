@@ -280,3 +280,8 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
+
+歌曲欣赏,#genre#
+戴荃-八戒,https://cloud-cdn.yinyuetai.com/68271b506c9e71eeb1e90666a2ec0102/a23878108dbae6c01f2c0457d66cd175-hd.mp4?w=1920&h=1080&sign=1698557267-vuarc1w4ns44um5y1rrb9cfm081e7qqv-0-32d69936e1d18a41aa9c9dae45c23755
+杨乃文-落日飞车,https://cloud-cdn.yinyuetai.com/e0565fa068cf71eeaf491776b3cf0102/38c9feefda5b2d8ba84b0b2cbe325183-hd.mp4?w=1920&h=816&sign=1698557552-x80o1qdhrxzvw3m-0-791b5e5a127fa43187515bf1cb72c3c2
