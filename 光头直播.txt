@@ -284,14 +284,21 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 歌曲欣赏,#genre#
 八戒,https://mvwebfs.ali.kugou.com/202310292233/c634699d4b88f7c3cc4e6a21908961a7/KGTX/CLTX002/8a68b7bccc51163045ff9ff2f5cb0e8e.mp4
-落日飞车,https://mvwebfs.tx.kugou.com/202310292234/a5ff0705dd3fa52ba8ae56316ba47538/v2/ca1d4cfb90950a9bdd2bf6e656414df5/KGTX/CLTX002/ca1d4cfb90950a9bdd2bf6e656414df5.mp4
-讨好,https://vodkgeyttp8.vod.126.net/cloudmusic/ICQgMDAxITA0MSBgNTMkYQ==/mv/248014/9040adfde97c78c85aed351fa718175b.mp4?wsSecret=45d2845dc4dc1e447b9e1e26ebc96f15&wsTime=1698656453
-悟空,https://cloud-cdn.yinyuetai.com/126fbfd0db5571ed88f825b7edcb0102/bdf859e2f9f20dca14ee3ce86351a802-hd.mp4?w=1920&h=1080&sign=1698657482-txus-0-d288d67c5ba72f2464a3d28b855094da
+可能,https://mvwebfs.ali.kugou.com/202310301918/9e91bd2fd1d13d0dec4a7a575f7645a4/KGTX/CLTX002/98e38d44427c0d4490821ed527fc9d54.mp4
+悟空,https://mvwebfs.ali.kugou.com/202310301925/208b375709d0d4c58fff9b99cfaf9e10/KGTX/CLTX002/7db509ccfbc8214db035967f5c50fa49.mp4
+化风行万里,https://mvwebfs.ali.kugou.com/202310301930/303475000405789afd23dbb726647536/KGTX/CLTX002/fc31b58f2d979bcaf2f67e7430a7fc43.mp4
+阿刁,https://mvwebfs.ali.kugou.com/202310301951/bb2f07d5a8482b48428a91c58d8f0448/KGTX/CLTX002/258a03e78881b8e4f50572df76aa3e10.mp4
+昨日重现,https://mvwebfs.ali.kugou.com/202310301955/12232955127f54840b166b47c9b584ef/KGTX/CLTX002/ec77d81df71628f4d9f005322c3b872d.mp4
+不让我的眼泪陪我过夜,https://mvwebfs.tx.kugou.com/202310301957/8aa4dfd358e4ff82779d6cbe5a95db67/v2/8ee6226a893dfc75f01038bea3533e34/G245/M05/05/01/lYcBAF-YdtSAezGuBqKEgnZHtqY340.mp4
+我的楼兰,https://mvwebfs.tx.kugou.com/202310302008/d014ab559c53575ea62edf6de62c2b04/v2/fb44edbf7bf582475650da126a0becbb/KGTX/CLTX002/fb44edbf7bf582475650da126a0becbb.mp4
+西海情歌,https://mvwebfs.tx.kugou.com/202310302012/69aa4255737c93e59b78825b000bb37c/v2/15a7a168d1385e80e8f7ab2b4f6494e5/KGTX/CLTX002/15a7a168d1385e80e8f7ab2b4f6494e5.mp4
 可可托海牧羊人,https://mvwebfs.ali.kugou.com/202310301726/7d0cc189cdcc1b44b1c54e2d3764f679/KGTX/CLTX002/8b866a527ee3805bef01dca77ea7dc8e.mp4
 站着等你三千年,https://mvwebfs.tx.kugou.com/202310301728/e6c74822523dbaf8ad9bb774e526dc1e/v2/8e437e625515fa97abdc92cfdff82410/G125/M08/19/08/XZQEAFxvtf-AIdRbBhQsN1TuNRI763.mp4
+不再犹豫,https://mvwebfs.ali.kugou.com/202310301935/8d9c34db7dbd3c1d48b93be9c54212ef/v2/ec55a09ec78947a3b5cd45fb410ed696/G151/M0B/16/13/d5QEAF0CI-SAYvsGAuCn8i5HFd8060.mp4
+撕夜,https://mvwebfs.tx.kugou.com/202310301938/c6d2760afab392540595f00599eefa2f/v2/7940653dcf694770ddd98066fa0f00bf/KGTX/CLTX002/7940653dcf694770ddd98066fa0f00bf.mp4
+阿杜-Andy,https://mvwebfs.ali.kugou.com/202310301940/ea0125a3ac27e61c7ad0e88c3ca836ea/KGTX/CLTX002/caf94d98c26d3e716a6b3fe9c2f56b93.mp4
 最炫民族风,https://mvwebfs.tx.kugou.com/202310301730/8b6750f80cd9d376bf296413083ce50b/v2/99c3ac429defa07fb0dbc4324f06835b/G126/M09/19/17/HocBAFp2k-SAGiJdAVo2QDsR9XQ912.mp4
 2002年的第一场雪,https://mvwebfs.tx.kugou.com/202310301731/5bdb0ac1302ae7828f0b548d189ec55b/v2/2aaf3afa25947fe351a0df149993b0c9/KGTX/CLTX002/2aaf3afa25947fe351a0df149993b0c9.mp4
-白狐,https://cloud-yytplay-cdn.yinyuetai.com/mv/519701315AB0E033B94E000FEFF057E1.mp4?w=576&h=432&sign=1698659493-si9tj8ux02oqiba0n81al27rq238ry2-0-05f0bef7c0a542ccd221148033e7d3f9
 黄昏,https://mvwebfs.tx.kugou.com/202310292238/230d297c4f357a796e60481f9bd44e80/v2/3bcb2a4abdf33368042726dab7bdc588/KGTX/CLTX002/3bcb2a4abdf33368042726dab7bdc588.mp4
 寂寞沙洲冷,https://mvwebfs.ali.kugou.com/202310292240/229d16f1695a8149dcd6e0e9a95b1369/KGTX/CLTX002/868c8f09fe9f1444fd4a390b60596977.mp4
 过火,https://mvwebfs.ali.kugou.com/202310292241/ef65c4aca605fc94a0d82413f2338c2e/KGTX/CLTX002/cf3f3d9187fce2b51c0f121ec9a79d0e.mp4
@@ -335,3 +342,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 红尘蝶恋,http://chuangshicdn.data.mvbox.cn/music/sp/14/11/19/14111913411397637238.mp4
 情为何物,http://chuangshicdn.data.mvbox.cn/music/sp/14/09/23/14092318015757328756.mp4
 万水千山总是爱,http://chuangshicdn.data.mvbox.cn/music/sp/14/04/07/14040713045666223426.mp4
+
+
+抖音热歌随时失效,#genre#
+来人间走个过场,https://v3-web.douyinvod.com/5c35ae3c98e2cba82e5e7896e7a00789/653fadeb/video/tos/cn/tos-cn-ve-15c001-alinc2/o4SauAbDNgPjlYWD3IBK9eAm9hQN8sARncB3df/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=274&bt=274&cs=2&ds=3&ft=GN7rKGVVywIiRZm8Zmo~ySqTeaApp7bxEvrKyb3mNdo0g3&mime_type=video_mp4&qs=15&rc=NDk8ZDVmMzZmZTk0NDszOUBpanFmeDo6ZjlxbjMzNGkzM0BiYjJiMGBeXi0xMDYwYDQxYSMycjAzcjQwMnNgLS1kLTBzcw%3D%3D&btag=e00010000&dy_q=1698668482&feature_id=e585bce62f14c124a0ac1450c3a95af2&l=2023103020212297DBFF71E76C410CE67A
+赐伤,https://v3-web.douyinvod.com/6a484a9ff1946d13f501e290fedc35de/653faf2e/video/tos/cn/tos-cn-ve-15c001-alinc2/oAK9Ek7ODLEpA8e0jADgegAM01WnBInaARib94/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=216&bt=216&cs=2&ds=4&ft=GN7rKGVVywIiRZm8Zmo~ySqTeaAp_DDxEvrKyb3mNdo0g3&mime_type=video_mp4&qs=15&rc=ODNoOzU6aTQ7NTlkZzc5OEBpM3hkdTk6Zmc8bDMzNGkzM0A0XzFfL2NhNTQxYmMuNDMxYSMuZWplcjRfL2NgLS1kLTBzcw%3D%3D&btag=e00028000&dy_q=1698668614&feature_id=e585bce62f14c124a0ac1450c3a95af2&l=202310302023336519E6D9E40B230C3886
+天际,https://v3-web.douyinvod.com/5a93e0ffd36baff135464d863c9fdd3e/653fb01e/video/tos/cn/tos-cn-ve-15c001-alinc2/ogdkhznBEADI50QADAohTCqauIYegof1y8B4Lt/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=704&bt=704&cs=2&ds=4&ft=GN7rKGVVywIiRZm8Zmo~ySqTeaApvUDxEvrKyb3mNdo0g3&mime_type=video_mp4&qs=15&rc=NTo3N2c0PGQ1ZmhmOjo2M0Bpam5ueDY6Zjc8bjMzNGkzM0AxNjM1MjUyNTExLjMxMjFhYSMyMjNwcjRfXnJgLS1kLTBzcw%3D%3D&btag=e00030000&dy_q=1698668761&feature_id=768c4eee0a62d19cc9ffc7d17c46e537&l=2023103020260002A61C2621C9EC15B0A8
+今天,https://v26-web.douyinvod.com/c7e0e17c081546b13dacf1cd564082af/653fb01c/video/tos/cn/tos-cn-ve-15c001-alinc2/oYh483AED6nAeE9eFvCD3JatDQBB7BQqI8EebB/?a=6383&ch=11&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=766&bt=766&cs=2&ds=4&ft=GN7rKGVVywIiRZm8Zmo~ySqTeaAphzDxEvrKyb3mNdo0g3&mime_type=video_mp4&qs=15&rc=NmllOjo0N2hlZWg6Nzo0M0BpM3hoOzQ6Zng4bTMzNGkzM0AuX15fYDVfXzAxMzQzLS0zYSNyLmNkcjRnanBgLS1kLS9zcw%3D%3D&btag=e00028000&dy_q=1698668890&feature_id=7cb96be549cb218b830a4e217d8b06f2&l=20231030202809EFBA2E9B780C460C5F8B
