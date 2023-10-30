@@ -285,6 +285,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 歌曲欣赏,#genre#
 八戒,https://mvwebfs.ali.kugou.com/202310292233/c634699d4b88f7c3cc4e6a21908961a7/KGTX/CLTX002/8a68b7bccc51163045ff9ff2f5cb0e8e.mp4
 落日飞车,https://mvwebfs.tx.kugou.com/202310292234/a5ff0705dd3fa52ba8ae56316ba47538/v2/ca1d4cfb90950a9bdd2bf6e656414df5/KGTX/CLTX002/ca1d4cfb90950a9bdd2bf6e656414df5.mp4
+讨好,https://vodkgeyttp8.vod.126.net/cloudmusic/ICQgMDAxITA0MSBgNTMkYQ==/mv/248014/9040adfde97c78c85aed351fa718175b.mp4?wsSecret=45d2845dc4dc1e447b9e1e26ebc96f15&wsTime=1698656453
+悟空,https://cloud-cdn.yinyuetai.com/126fbfd0db5571ed88f825b7edcb0102/bdf859e2f9f20dca14ee3ce86351a802-hd.mp4?w=1920&h=1080&sign=1698657482-txus-0-d288d67c5ba72f2464a3d28b855094da
 最炫民族风,https://mvwebfs.ali.kugou.com/202310292235/13b1e6abef4edf6ffcbaa652c4002c22/KGTX/CLTX002/1ad07f7e4339e024c83df710a2342e7a.mp4
 2002年的第一场雪,https://mvwebfs.ali.kugou.com/202310292236/0116ccf92aac4141ab1988de89aa569f/KGTX/CLTX002/2aaf3afa25947fe351a0df149993b0c9.mp4
 黄昏,https://mvwebfs.tx.kugou.com/202310292238/230d297c4f357a796e60481f9bd44e80/v2/3bcb2a4abdf33368042726dab7bdc588/KGTX/CLTX002/3bcb2a4abdf33368042726dab7bdc588.mp4
