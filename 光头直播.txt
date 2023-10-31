@@ -290,4 +290,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 演唱会,#genre#
 云朵2021演唱会,https://dh5.cntv.myalicdn.com/asp/h5e/hls/2000/0303000a/3/default/5324447332604622a0ee04245044a5fe/2000.m3u8
-群星演唱会,https://dh5.cntv.myhwcdn.cn/asp/h5e/hls/2000/0303000a/3/default/9652fbdf8009450590530b878f08339f/2000.m3u8
+群星演唱会,https://dh5.cntv.lxdns.com/asp/h5e/hls/1200/0303000a/3/default/27d399534a234074bb2ca0a7b0fc6c26/1200.m3u8,
+https://dh5.cntv.lxdns.com/asp/h5e/hls/850/0303000a/3/default/27d399534a234074bb2ca0a7b0fc6c26/850.m3u8,
+https://dh5.cntv.lxdns.com/asp/h5e/hls/450/0303000a/3/default/27d399534a234074bb2ca0a7b0fc6c26/450.m3u8,
+https://dh5.cntv.lxdns.com/asp/h5e/hls/2000/0303000a/3/default/27d399534a234074bb2ca0a7b0fc6c26/2000.m3u8
+
