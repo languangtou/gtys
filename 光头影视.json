@@ -23,6 +23,26 @@
       "quickSearch": 0,
       "filterable": 0
     },
+       {
+            "key": "PanSearch",
+            "name": "4KHDR站-H",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+           {
+            "key": "csp_WoGG",
+            "name": "4KHDR站-A",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
+        },
       {
       "key": "爱奇异",
       "name": "爱奇艺(官)",
@@ -449,6 +469,41 @@
       "type": 3,
       "url": "Demo"
     },
+       {
+            "name": "TA",
+            "type": 1,
+            "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
+        },
+        {
+            "name": "TB",
+            "type": 1,
+            "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=V1JNMfpVhruGmgbj5s&url="
+        },
+        {
+            "name": "TD",
+            "type": 1,
+            "url": "http://119.45.115.156:90/cache.php?url="
+        },
+        {
+            "name": "TC",
+            "type": 1,
+            "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
+        },
+        {
+            "name": "TBF",
+            "type": 1,
+            "url": "http://106.53.99.43:84/bf.php?url="
+        },
+        {
+            "name": "TLZ",
+            "type": 1,
+            "url": "http://106.53.99.43:84/lz.php?url="
+        },
+        {
+            "name": "TFF",
+            "type": 1,
+            "url": "http://106.53.99.43:84/ff.php?url="
+        },
     {
       "name": "神秘的哥哥们",
       "type": 0,
