@@ -284,7 +284,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 歌曲欣赏,#genre#
 云朵演唱会,http://vod.cctv.cn/cms/2018-09-11/CCTV15_2m_20180911133010794-16889_video_1-001.mp4
-化风行万里,https://vd4.bdstatic.com/mda-nk1eg8w63emxtp0m/720p/h264/1667384608924407517/mda-nk1eg8w63emxtp0m.mp4
+化风行万里,https://mvwebfs.ali.kugou.com/202311011421/a4fb45a7e845efb5ab0400fd787765bb/KGTX/CLTX002/df8f1f698e443e87b2f9e8294fabc71e.mp4
 乌兰巴托的夜,https://apd-c947313f68734edfb8c6f2934865af22.v.smtcdns.com/mv.music.tc.qq.com/A6VXskpU75UiEOt6lASo2qycB-fYj-UGTy7XoUJhIIXo/E4D7009B7C3D65C677636C2B1B2BFBE9341BF6D8B2FB6C3B8CC615E2981F098335671DF7126980C6D030A1FA2B660BD5ZZqqmusic_default/qmmv_0b53tmaaaaaaqiag6e36bfrvjgyaacnqaaca.f9944.m3u8
 悟空,https://mvwebfs.tx.kugou.com/202310312048/8031acb265ba51c462a62baf8c05c4b3/v2/7db509ccfbc8214db035967f5c50fa49/KGTX/CLTX002/7db509ccfbc8214db035967f5c50fa49.mp4
 给你颜色,https://apd-227be840a6a8104038dc9d28ab8924f3.v.smtcdns.com/mv.music.tc.qq.com/AKxa6Uu1CQQzZ9WMlqdnDMNX1Db2m7-YkKmvmN75dg1o/9C90518E13EA23FEF4BA7B167E44554E9F3E82BD37DF0BF01468CADD8777E9D7BC1646D0FA547527ACDBB716513890C4ZZqqmusic_default/qmmv_0b6b3yaaqaaaliaacropnjqvjxqabdpaacca.f9944.m3u8
@@ -303,8 +303,6 @@ Andy,https://apd-12fc73a292f7a7d08f59c77f824e55bb.v.smtcdns.com/mv.music.tc.qq.c
 等爱的玫瑰,https://apd-36e1f81a5b5c2dfa62bec525115951b6.v.smtcdns.com/mv.music.tc.qq.com/AADwB9M4MBsPT8esbcyue3L8ak69uY0bWU7kB-t1I3hs/A6B7CFC0441293742E00C610EB46CE95F36D0D211F3F176282E4920DAD56D62363F24E757666C33C1CFB7F305700E2A5ZZqqmusic_default/qmmv_0b53tmaagaaagyagnud6y5rvjgyaaonqaa2a.f9924.m3u8
 最炫民族风,https://apd-cb0c3b7cb3693ca4c36453b7ebfb7a8a.v.smtcdns.com/mv.music.tc.qq.com/A1ineKvc1uF_-QVs8KjMtEQ8ikrqQ_SCYo1pFMqNsic0/B6D082EB0809EC04B89318A4DAB3DC3DCE3F5842FB6729EB7F695D4D9286CCFA4FC5259B2B9354D1C661D2033008BF44ZZqqmusic_default/qmmv_0b53zyaaiaaaziaogq35yfrvjtqaathaabca.f9914.m3u8
 白狐,http://song.mvbox.cn/mv/41/90926841-6.mp4
-姑娘像花一样,http://song.mvbox.cn/mv/42/90576042-7.mp4
-站在草原望北京,http://song.mvbox.cn/mv1/74/00173474.mp4
 套马杆,http://song.mvbox.cn/mv1/41/90279241.mp4
 丁香花,http://song.mvbox.cn/mv/94/90503694-7.mp4
 等你等了那么久,http://song.mvbox.cn/mv/70/90976170-6.mp4
