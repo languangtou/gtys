@@ -1,5 +1,8 @@
 {
+     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+    "spider": "./jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
      "sites": [
+
         {
             "key": "drpy_js_奇珍异兽",
             "name": "奇珍异兽[js]",
