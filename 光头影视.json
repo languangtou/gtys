@@ -392,7 +392,6 @@
       "type": 3,
       "url": "Demo"
     },
-    {"name":"公众号","type":1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","YuMi-vip"]}},
        {
             "name": "TA",
             "type": 1,
