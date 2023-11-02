@@ -1,9 +1,8 @@
 {
-     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
+   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
-     "sites": [
-
-        {
+        "sites": [
+          {
             "key": "drpy_js_奇珍异兽",
             "name": "奇珍异兽[js]",
             "type": 3,
@@ -32,17 +31,16 @@
             "ext": "./js/百忙无果.js"
         },
            {
-            "key": "csp_XYQHiker_影渣渣影视",
-            "name": "影渣渣影视??(HM2)",
+            "key": "csp_Ikanbot",
+            "name": "👾Ikanbot",
             "type": 3,
-            "api": "csp_XYQHiker",
+            "api": "csp_Ikanbot",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/影渣渣影视.json"
+            "filterable": 1
         }
-          ],
-           "parses": [
+     ],
+      "parses": [
    {
       "name": "777",
       "type": 0,
@@ -147,7 +145,7 @@
       }
     }
   ],
-  "rules": [
+    "rules": [
     {
       "name": "lz",
       "hosts": [
