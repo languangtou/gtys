@@ -23,26 +23,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-       {
-            "key": "PanSearch",
-            "name": "4KHDR站-H",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
-        },
-           {
-            "key": "csp_WoGG",
-            "name": "4KHDR站-A",
-            "type": 3,
-            "api": "csp_WoGG",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
-        },
       {
       "key": "爱奇异",
       "name": "爱奇艺(官)",
@@ -103,12 +83,47 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+     {
+            "key": "PanSearch",
+            "name": "4KHDR站-H",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+        },
+           {
+            "key": "csp_WoGG",
+            "name": "4KHDR站-A",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://www.wogg.xyz/$$$关"
+        },
 
-{"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"嗨嘢","name":"嗨嘢┃App","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"FbjCcU1KqpC5p0RX4Q3D+NciPclIFs4EHzwZtdHSwE4eMJ/Nnh/51UHa3ZS8BimxKHKF1VAUtSsbdCQtWZJcTlUXW4DCv0KpS1xF01Vu5OxfAIXSOTBUA0DDZHsxv4WA2Sn7UdMuENMQpB9FkQKcTF50c7ySnFoRZu8EUWweBiyt6PwI+/Q2MNsbV+5oOVNTSDB91w82YAf2jCUH9xRPmpt2q6TAtRofVmJR1q4bVzFW3MrK3hWueIyRsyOllsj/P86fFmdEHuXnNydMv58nBxKvoLu9pNg="},
-{"key":"快影","name":"快影┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-{"key":"繁星","name":"繁星┃App","type":3,"api":"csp_AppMao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"},
+    {
+      "key": "蚂蚁",
+      "name": "蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://rzys.xyz"
+    },
+    {
+      "key": "Auete",
+      "name": "奥特┃直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.aueteys.com/"
+    },
       {
       "key": "YGP",
       "name": "叨观荐影┃速递",
@@ -137,8 +152,51 @@
       "playerType": 2,
       "ext": "kVuIt2RRCkF2aaUQ/tRDng0xixNwS1YzLTR2ZWIRoeZuBR6foSvKpFzROP6SYD+xee2Pid+GdwE4YIdXdWdTZm6byVUDz6NsLe8bZgbM4Jh28u/cmuhteoyxaNXdZ8IDERVMLBvOVgJStN8HNapFs+whGI/ls/gGyIu/MwJ8eDo0sRFqx68+aYWOn3/vB4No7D59GKHmxMY0zMdk7l4vuJa1uKEPkN9aVb5yvrtK4otsS2YcrK8k3yQ5jcvEgXvx0IbMjieKzvEj8bMtkebPDqR0IgzqolJCgA+ZkhNnPKvYizqsNGxzvTRL/w2LyL1/E6xGVk+eiayVZImjLyqqMJ2HQ7jNFmcQ7bnsOOofrAFVzmLls1TRZuhBiZqX/GpljYXji1i4CgimE8dQdb/Bm1hBJZ+EPJwPFVELFlVYrx3+7tSg/n0yUB2dstDJIZAX0otUgX8joU3D9fPlpRX514tNEhPRa3ocoruEU81osVNiQ7/pEXP+Cxn40UNLudttKj1YSPESGtewQYnsbygGBFY8ddkOhhqHmcWC3IxgljigEgQO3bAvH2qLQs5rXLm3s2RtIqSipdG9OlGf4q35swc/wfiTLHDUJIO5zIFxfqQmRXbHiWqkz5yL2x6z0EKT04YMo+tnPrHxmrp9yeYDZSy39j5/D3Xt3gQTXoPyv9OiBEI/kxcUbPDIoaiw6iZTUiUCDuHRm31d/H7LOpQcAndUy2XbV8Sa+q/lO++HspjWgLwp5T/uxfvPLuctmkdYq6zdybwHNpNWy5KUOyra81dO0QfuHu6+2keXtQZzE8JiahHVFou+BxTa79MXg3EEUjPmmlVS6FFK12uSutZiJkPWxBuvBCmpBzn0Rq0IsDFkCvgQpqnxDi6NayNATUPu8J/HAiIs04d+xDjFwkBKvXeO5Hdvs4zmURqND/gtEYm47rlqjLQ5fFQqgL0qK3zPZzQSJ/Vya9gaTesDImNPqYwOrzx6RGRBHnqiXSxJB7+XHvZ5sZJ8uIcV7V+pQv3Dx","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
     },
+       {
+      "key": "嘿嘿",
+      "name": "嘿嘿┃App",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 0,
+      "ext": "ENnRz/ih1l1c66N6BKFOz+YBuSQ9MLSIBiAZlncrjRjTTZLY5CLlI3oumb/OprDun/JzBv3XY6Dc8lfVB0P9b9tMf9CfR/6c+hvNyc8mNR69yCBfLyi4ao8Fd/OopJkf3OcGcg1thSSUDnMeVkSmetn4rDOY5DrRy2mAzg/Or984N1BHSVwdPoWt24CC+8LaBws6uTMruROR+L7CliEDYnYCy9YTzqMt1XRkc6Cq5uHyiSIKemgPUymHu2fAlqNq/9WfwSciXCKpgcJmNCd7QpiBBQRqjem/F2zQ0wDMhRJfggvkGB+z+4nttmt9b7eD33X24h8kRxoFbeTJ3QRiIfI24H0TxUm6TJFYHEa6DgTNEVpQ8ELDtBJz5rA3ThOYAyePCf8pC4Y4nfZUBiJ7gUNJ9sOBUgSgFwa0badfvf8KtA1jLjTBqekzuwr6sFCb0i2iYreH6+m2micxUzpBVdn5NmkaSP86xhYLIrCdew5XZBFexVpVTcEDdpN7G4wWd/5/OuVTlkxGBEvKFt3uxcLH2e32LhaBoPAkuBtnoOrnuaGWmEMRpxBPA5tkA+qJ5hAs43Q6T33WdHCMyhJTP5y0bO871P/UowIaM+ZcLhs9YdmcassMZIr/wxVrbSHgW/Yh2eERZ0n6Zzn5qxZv72zxtSPrJd8NQ5zu8geZlZ30=","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
+    },
+     {
+      "key": "艾艾",
+      "name": "艾艾┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "cmx8moYeCnvhEzzoIqDwiozurCMvY5XTmR+ZwTbv+7bvpEPAt2XLw0Op8RypDuoKGJLmD4myErADmLF/cx9QoQMDBTapbZxkouCm/bw+1AWuBCBnDQFCgXrw3I4lAGTaJfY0coVBSqSJ77BW5OATwkB4IfwqtWu7xXwlbEHFUsGRESh6g7VHmnFp0q4L+ohf5PkjTcyaMxjWM9FH+XOoji5ItsDhuWiFWOaRFw26Z6W8naU8v05Br77nFJteyk0MT630gW0aZEtB/J13mBmsT2tjhiuLZ+9lZq3DQk81VqABKYRXH6uauLeDBZj699Qe0A7BE+0l/tlAKV8RIvDWj6xgQeOHDZM/+D8moBHveF8j3terhJRfsAj/ukKkvdzehYA/wWrzulwpU1K4WE4OMVb/UoMiLzJijTdC1TdkmMKnXzZgKp3TJuUiPv9qi58BSRlLyY1GRHvjhBya0KEodI9QPAHqOAaW6Z2lADJc4uwImiN0UAug26SHIzWDoJ8P+0APXMA5OzqTwQ5PlGISfCChHlI4fBKRSWGiJNzVO9NxjB+9fi1d5Pp5sHegNVpuvHs3jhCg2C9Wyqwl1UA6+BxKADG2FpFHacAd1OrH7kidPzRWm8mwb202QT0+tJbtjQExHQfNuxLaZXISixJsQP7GKBBUQernokP5U1Qj2rbo=","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
+    },
+       {
+      "key": "星星",
+      "name": "星星┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "VEUTLMRXuwMFypu4xBFaslbBSWycBXBU2oWwJkfRZ8jPbjmJVK+PvVHT/1yKUgxWs6PbclqEN7mVwmWn3EunB8CDI5LWhQnzerIf1g3xhxA7ZUB0Y8mCSZf5DHDToFLI1xuw/TjvnkXX0cxkzNgtAZv7ik3qchX14Bt6syJBaVGrfdIa7MzUN/669oAY8KLSc2Rq8Ne2Ezy3FrPtRRDNpgKhbxq5f8B9thBJB1Ek8ESckQ+KNaSaugIVl0GjGFCaALPm9PTyWFHM1HjUX0Iule+ossv5NB0RLO+ZEbAtluBCmCw37vo76WOW0PjRWVgtWNUavx5hak+3+5Cq4czRtJ7j4egAUTpxRHlVV5czWZSdQUkdwGnZ4roDUzpZ1Krcm3AydL957y8wp2WUHbCtdvKuD8ZT0DjhxqJAvLTajAANfheX5gMowAJoPp1hPa1s17uxZfjLexnSAqdEr7g5gQL2ulOnvrUjbrpKQitDWgjrriNllr/90uflSZsX8HHbJ6KL5Mky4fwv6D1NxqniJ7qtguHSVqRnGH3T46TGk91AjBDTJcLgNdjZguyh9rzqgHXoE1g8sT30aIcoxNEc3Fr3KVmVU22WU4WD2Ds0pVHU9eBlxz2PLISNdREtZms8hRAqNCuz0FlSuuCo9+wQ9XjQcbuCs0Plunb6zpC/BnXY=","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
+    },
+       {
+      "key": "喵喵",
+      "name": "喵喵┃App",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "LV06Bwf1IqCvCECepSCn4qV2bM4V8EBht1OE3hBzrH9GyAa8/a41aynh8h0yAhuYumDP/bS0DA1QnbmPRQKyikp05fgrDnFaxHJFP287vblsUg3Q5QwZlm5WEp4xp0L/HjE+V5fYmLwo8aZAblR9YJvgraRiCBewvH9+cWN+TR7iTBufOdDXsDZpY4vUy6XvHMx2+qkgXCSU5yYvuErBsEDKS2PuGmDmHBpq5W6xZ3xHZZQfZreVaKwt8LElzh5RaVKRn5NbEChpQt2C0wqPmedbjpgu/GYH/LLceQUK5w0LMUZKBAQo6PTwgSgkzolcJnzperBpnIhC7uY+n8a3D9UZB8KDx+wsqai9M9bH5d5+/3flwaYMEVRmmOMgtGxAQr0wqhFltPCEtDvnHltBj6MZitjQZV1Tta0nwoP2awf2R3JIYwm7S5ph4m8RWts/SGrD/n9NrmRnB5rLa0M6VHMGp+s/kXzHmul50DmOXQryhMOg+V+z5kFucczLSCLBur4bqaVuAKo57Wcn1Tle61LOpqWBwEL3m9nZ9ht3vrIncP3dRvwAvgos1eGhlQuQJX9cyR7nV5D8nnEGDQ0nFnDx1Ub6gK48gpItiVE3657JLlaq/d1NszzvxwREtCnOpfFWT03o3VHwR9tDPsz7L2wj6BQr7Zo7X/Vqu4bbL2CI=","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar" 
+    },
+    {"key":"天天视频","name":"天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"圣城影视","name":"圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/sc1080.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"畅梦","name":"畅梦┃秒播","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/changmeng.js","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"农民影视","name":"农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/nongmin.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"酷云77","name":"酷云┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"348影视","name":"348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/348.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"}
+    ,{"key":"速看","name":"速看100","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sk100.tv/api.php/app/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/voflix.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"低端影视","name":"低端┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/diduan.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+    {"key":"555影视","name":"555蓝光","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/555.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/天空资源.json"},
        {
             "key": "csp_beijihu",
@@ -158,6 +216,15 @@
       "ext": "http://www.miniku.cc/xgapp.php/v1/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
    },
    {"key":"狐狸","name":"狐狸蓝光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/" ,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
+           {
+            "key": "csp_SNzy",
+            "name": "┃索尼┃高清",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+           "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
            {"key":"瑞丰","name":"瑞丰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -200,122 +267,24 @@
       "quickSearch":1,
       "filterable":1,
       "ext":"./sub/Blixs.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
-       {
-      "key": "MV_vod",
-      "name": "明星┃MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "style": {
-        "type": "oval","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-       {
-      "key": "演唱会",
-      "name": "经典演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/%E6%BC%94%E5%94%B1%E4%BC%9A.txt",
-      "spider": "http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
-    },
-     {
-      "key": "js_酷狗MV",
-      "name": "┃酷狗┃音乐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/酷狗MV.js","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "js_a8音乐",
-      "name": "┃奥迪┃音乐",
-      "type": 3,
-      "api": "https://jihulab.com/duomv/xduo/-/raw/main/libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/a8音乐.js","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "csp_酷奇",
-      "name": "┃酷奇┃音乐",
+      {
+      "key": "非凡资源",
+      "name": "非凡资源",
       "type": 3,
       "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/酷奇MV.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-        {
-      "key": "MV_vod",
-      "name": "┃MTV┃合集",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "py_MTV",
-      "name": "┃歌曲┃视频",
-      "type": 3,
-      "api": "py_MTV",
-      "searchable": 0,
-      "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/mtv.py","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "py_Yinl2",
-      "name": "┃音悦┃合集",
-      "type": 3,
-      "api": "py_Yinl2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/leevi/duo/raw/branch/master/libs/yinyue.py","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/ffzy.json",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
     },
       {
-      "key": "csp_XYQHiker_DJ呦呦音乐网",
-      "name": "DJ呦呦音乐网(XYQH)",
-      "type": 3,
-      "api": "csp_XYQHiker",
+      "key": "量子",
+      "name": "量子",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/DJ呦呦音乐网.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {"key":"演唱会","name":"演唱会","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/yanchanghui.txt","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
-    {"key": "MV","name": "歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33112/%E6%AD%8C%E6%9B%B2MV.json?sign=KB_Qwrac-uvlJFIVoaZNoyFKolNnM9ETQxd61-_wRsE%3D%3A0","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/83.jar","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
-        {
-            "key" : "drpy_js_DJ音乐",
-            "name" : "DJ音乐",
-            "type" : 3,
-            "api" : "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext" : "https://jihulab.com/ygbh1/box/-/raw/main/JS/js/DJ%E9%9F%B3%E4%B9%90.js","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-        },
-          {
-      "key": "MV_vod",
-      "name": "音乐视频丨接口",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-     {
-      "key": "歌手_MV",
-      "name": "MV",
-      "type": 1,
-      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
-      "searchable": 0,"jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "changeable": 1
     }
   ],
   "parses": [
@@ -392,41 +361,6 @@
       "type": 3,
       "url": "Demo"
     },
-       {
-            "name": "TA",
-            "type": 1,
-            "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-        },
-        {
-            "name": "TB",
-            "type": 1,
-            "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=V1JNMfpVhruGmgbj5s&url="
-        },
-        {
-            "name": "TD",
-            "type": 1,
-            "url": "http://119.45.115.156:90/cache.php?url="
-        },
-        {
-            "name": "TC",
-            "type": 1,
-            "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-        },
-        {
-            "name": "TBF",
-            "type": 1,
-            "url": "http://106.53.99.43:84/bf.php?url="
-        },
-        {
-            "name": "TLZ",
-            "type": 1,
-            "url": "http://106.53.99.43:84/lz.php?url="
-        },
-        {
-            "name": "TFF",
-            "type": 1,
-            "url": "http://106.53.99.43:84/ff.php?url="
-        },
     {
       "name": "神秘的哥哥们",
       "type": 0,
