@@ -1,6 +1,7 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=2","https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;fb5c876ad4c3ec2fa09733e74af98211",
+    "spider": "./jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54", "http://饭太硬.top/深色壁纸/api.php",
+
     "lives": [
         {
             "name": "直播",
