@@ -3,7 +3,7 @@
     "spider": "./jar/XYQ.jar;md5;eabf452425cf0176d395c553c8bc3a54",
     "lives": [
         {
-            "name": "ç›´æ’­",
+            "name": "Ö±²¥",
             "type": 0,
             "playerType": 1,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -26,7 +26,7 @@
     "sites": [
         {
             "key": "csp_LocalFile",
-            "name": "??æœ¬åœ°è§†é¢‘",
+            "name": "??±¾µØÊÓÆµ",
             "type": 3,
             "api": "csp_LocalFile",
             "searchable": 0,
@@ -35,43 +35,43 @@
             "type_flag": 0
         },
         {
-            "key": "drpy_js_è±†ç“£",
-            "name": "è±†ç“£[js]",
+            "key": "drpy_js_¶¹°ê",
+            "name": "¶¹°ê[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/drpy.js"
         },
         {
-            "key": "drpy_js_å¥‡çå¼‚å…½",
-            "name": "å¥‡çå¼‚å…½[js]",
+            "key": "drpy_js_ÆæÕäÒìÊŞ",
+            "name": "ÆæÕäÒìÊŞ[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/å¥‡çå¼‚å…½.js"
+            "ext": "./js/ÆæÕäÒìÊŞ.js"
         },
         {
-            "key": "drpy_js_ä¼˜é…·",
-            "name": "ä¼˜é…·[js]",
+            "key": "drpy_js_ÓÅ¿á",
+            "name": "ÓÅ¿á[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/ä¼˜é…·.js"
+            "ext": "./js/ÓÅ¿á.js"
         },
         {
-            "key": "drpy_js_è…¾äº‘é©¾é›¾",
-            "name": "è…¾äº‘é©¾é›¾[js]",
+            "key": "drpy_js_ÌÚÔÆ¼İÎí",
+            "name": "ÌÚÔÆ¼İÎí[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/è…¾äº‘é©¾é›¾.js"
+            "ext": "./js/ÌÚÔÆ¼İÎí.js"
         },
         {
-            "key": "drpy_js_ç™¾å¿™æ— æœ",
-            "name": "ç™¾å¿™æ— æœ[js]",
+            "key": "drpy_js_°ÙÃ¦ÎŞ¹û",
+            "name": "°ÙÃ¦ÎŞ¹û[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/ç™¾å¿™æ— æœ.js"
+            "ext": "./js/°ÙÃ¦ÎŞ¹û.js"
         },
         {
             "key": "Gitcafe",
-            "name": "??å°çº¸æ¡(æœç´¢)",
+            "name": "??Ğ¡Ö½Ìõ(ËÑË÷)",
             "type": 3,
             "api": "csp_Gitcafe",
             "playerType": 1,
@@ -82,7 +82,7 @@
         },
         {
             "key": "csp_Zhaozy",
-            "name": "??æ‰¾èµ„æº(æœç´¢)",
+            "name": "??ÕÒ×ÊÔ´(ËÑË÷)",
             "type": 3,
             "api": "csp_Zhaozy",
             "playerType": 1,
@@ -93,7 +93,7 @@
         },
         {
             "key": "csp_AliPS",
-            "name": "??å–µç‹¸ç›˜æœ(æœç´¢)",
+            "name": "??ß÷ÀêÅÌËÑ(ËÑË÷)",
             "type": 3,
             "api": "csp_AliPS",
             "playerType": 1,
@@ -104,7 +104,7 @@
         },
         {
             "key": "csp_Yisou",
-            "name": "??æ˜“æœ(æœç´¢)",
+            "name": "??Ò×ËÑ(ËÑË÷)",
             "type": 3,
             "api": "csp_Yisou",
             "playerType": 1,
@@ -115,7 +115,7 @@
         },
         {
             "key": "csp_Upyunso",
-            "name": "??UPäº‘æœ(æœç´¢)",
+            "name": "??UPÔÆËÑ(ËÑË÷)",
             "type": 3,
             "api": "csp_Upyunso",
             "playerType": 1,
@@ -125,85 +125,85 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt"
         },
         {
-            "key": "csp_XYQHikerAL_ç©å¶å“¥å“¥",
-            "name": "??ç©å¶å“¥å“¥(ä¼˜)",
+            "key": "csp_XYQHikerAL_ÍæÅ¼¸ç¸ç",
+            "name": "??ÍæÅ¼¸ç¸ç(ÓÅ)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç©å¶å“¥å“¥.json"
+            "ext": "./XYQHiker/ÍæÅ¼¸ç¸ç.json"
         },
         {
-            "key": "csp_XYQHikerAL_äº‘ç›˜èµ„æº",
-            "name": "??äº‘ç›˜èµ„æº(æœç´¢)",
+            "key": "csp_XYQHikerAL_ÔÆÅÌ×ÊÔ´",
+            "name": "??ÔÆÅÌ×ÊÔ´(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/äº‘ç›˜èµ„æºåˆ†äº«.json"
+            "ext": "./XYQHiker/ÔÆÅÌ×ÊÔ´·ÖÏí.json"
         },
         {
-            "key": "csp_XYQHikerAL_æˆ‘çš„å°ç«™",
-            "name": "??æˆ‘çš„å°ç«™(æœç´¢)",
+            "key": "csp_XYQHikerAL_ÎÒµÄĞ¡Õ¾",
+            "name": "??ÎÒµÄĞ¡Õ¾(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æˆ‘çš„å°ç«™.json"
+            "ext": "./XYQHiker/ÎÒµÄĞ¡Õ¾.json"
         },
         {
-            "key": "csp_XYQHikerAL_é˜¿é‡Œäº‘ç›˜ç½‘",
-            "name": "??é˜¿é‡Œäº‘ç›˜(æœç´¢)",
+            "key": "csp_XYQHikerAL_°¢ÀïÔÆÅÌÍø",
+            "name": "??°¢ÀïÔÆÅÌ(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é˜¿é‡Œäº‘ç›˜ç½‘.json"
+            "ext": "./XYQHiker/°¢ÀïÔÆÅÌÍø.json"
         },
         {
-            "key": "csp_XYQHikerAL_è±†è±†é£",
-            "name": "??è±†è±†é£(æœç´¢)",
+            "key": "csp_XYQHikerAL_¶¹¶¹·É",
+            "name": "??¶¹¶¹·É(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è±†è±†é£.json"
+            "ext": "./XYQHiker/¶¹¶¹·É.json"
         },
         {
-            "key": "csp_XYQHiker_åœŸæ‹¨é¼ æœç´¢",
-            "name": "??åœŸæ‹¨é¼ (æœç´¢)",
+            "key": "csp_XYQHiker_ÍÁ²¦ÊóËÑË÷",
+            "name": "??ÍÁ²¦Êó(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/åœŸæ‹¨é¼ æœç´¢.json"
+            "ext": "./XYQHiker/ÍÁ²¦ÊóËÑË÷.json"
         },
         {
-            "key": "csp_XYQHiker_ç›˜æœç´¢",
-            "name": "??ç›˜æœç´¢(æœç´¢)",
+            "key": "csp_XYQHiker_ÅÌËÑË÷",
+            "name": "??ÅÌËÑË÷(ËÑË÷)",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç›˜æœç´¢.json"
+            "ext": "./XYQHiker/ÅÌËÑË÷.json"
         },
         {
             "key": "push_agent",
-            "name": "??æ¨é€",
+            "name": "??ÍÆËÍ",
             "type": 3,
             "api": "csp_PushAgent",
             "playerType": 1,
@@ -214,7 +214,7 @@
         },
         {
             "key": "csp_Mp4Mov",
-            "name": "??Mp4ç”µå½±",
+            "name": "??Mp4µçÓ°",
             "type": 3,
             "api": "csp_Mp4Mov",
             "searchable": 1,
@@ -223,7 +223,7 @@
         },
         {
             "key": "csp_New6v",
-            "name": "??æ–°6V",
+            "name": "??ĞÂ6V",
             "type": 3,
             "api": "csp_New6v",
             "searchable": 1,
@@ -243,7 +243,7 @@
         },
         {
             "key": "csp_KubaCL",
-            "name": "??é…·å§ç”µå½±",
+            "name": "??¿á°ÉµçÓ°",
             "type": 3,
             "api": "csp_KubaCL",
             "playerType": 1,
@@ -253,7 +253,7 @@
         },
         {
             "key": "csp_MeijuTT",
-            "name": "??ç¾å‰§å¤©å ‚",
+            "name": "??ÃÀ¾çÌìÌÃ",
             "type": 3,
             "api": "csp_MeijuTT",
             "playerType": 1,
@@ -263,7 +263,7 @@
         },
         {
             "key": "csp_MeijuMi",
-            "name": "??ç¾å‰§è¿·",
+            "name": "??ÃÀ¾çÃÔ",
             "type": 3,
             "api": "csp_MeijuMi",
             "playerType": 1,
@@ -273,7 +273,7 @@
         },
         {
             "key": "csp_BLSGod",
-            "name": "??80Så½±è§†",
+            "name": "??80SÓ°ÊÓ",
             "type": 3,
             "api": "csp_BLSGod",
             "playerType": 1,
@@ -283,7 +283,7 @@
         },
         {
             "key": "csp_Xunlei8",
-            "name": "??è¿…é›·å§",
+            "name": "??Ñ¸À×°É",
             "type": 3,
             "api": "csp_Xunlei8",
             "playerType": 1,
@@ -293,7 +293,7 @@
         },
         {
             "key": "csp_XYQHikerAL_4KHDR",
-            "name": "????4KHDR(ç›˜/ç£)",
+            "name": "????4KHDR(ÅÌ/´Å)",
             "type": 3,
             "api": "csp_XYQHikerAL",
             "playerType": 1,
@@ -303,78 +303,78 @@
             "ext": "./XYQHiker/4KHDR.json"
         },
         {
-            "key": "csp_XYQHiker_ç”µå½±æ¸¯",
-            "name": "??ç”µå½±æ¸¯(XYQH)",
+            "key": "csp_XYQHiker_µçÓ°¸Û",
+            "name": "??µçÓ°¸Û(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç”µå½±æ¸¯ç£åŠ›.json"
+            "ext": "./XYQHiker/µçÓ°¸Û´ÅÁ¦.json"
         },
         {
-            "key": "csp_XYQHiker_BTå¤©å ‚",
-            "name": "????BTå¤©å ‚(XYQH)",
+            "key": "csp_XYQHiker_BTÌìÌÃ",
+            "name": "????BTÌìÌÃ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/BTå¤©å ‚.json"
+            "ext": "./XYQHiker/BTÌìÌÃ.json"
         },
         {
-            "key": "csp_XYQHiker_æå½±ç½‘",
-            "name": "??æå½±ç½‘(XYQH)",
+            "key": "csp_XYQHiker_¼«Ó°Íø",
+            "name": "??¼«Ó°Íø(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æå½±ç½‘.json"
+            "ext": "./XYQHiker/¼«Ó°Íø.json"
         },
         {
-            "key": "csp_XYQHiker_é«˜æ¸…MP4",
-            "name": "??é«˜æ¸…MP4(XYQH)",
+            "key": "csp_XYQHiker_¸ßÇåMP4",
+            "name": "??¸ßÇåMP4(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é«˜æ¸…MP4.json"
+            "ext": "./XYQHiker/¸ßÇåMP4.json"
         },
         {
-            "key": "csp_XYQHiker_èš‚èš4K",
-            "name": "??èš‚èš4K(XYQH)",
+            "key": "csp_XYQHiker_ÂìÒÏ4K",
+            "name": "??ÂìÒÏ4K(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/èš‚èš4K.json"
+            "ext": "./XYQHiker/ÂìÒÏ4K.json"
         },
         {
-            "key": "csp_XYQHiker_å“”å˜€å½±è§†",
-            "name": "??å“”å˜€å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ßÙàÖÓ°ÊÓ",
+            "name": "??ßÙàÖÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å“”å˜€å½±è§†.json"
+            "ext": "./XYQHiker/ßÙàÖÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_ç£åŠ›ç†Š",
-            "name": "??ç£åŠ›ç†Š(XYQH)",
+            "key": "csp_XYQHiker_´ÅÁ¦ĞÜ",
+            "name": "??´ÅÁ¦ĞÜ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç£åŠ›ç†Š.json"
+            "ext": "./XYQHiker/´ÅÁ¦ĞÜ.json"
         },
         {
             "key": "360_spider",
-            "name": "??360å½±è§†",
+            "name": "??360Ó°ÊÓ",
             "type": 3,
             "api": "csp_SP360",
             "filterable": 1,
@@ -383,7 +383,7 @@
         },
         {
             "key": "csp_Kuaikan",
-            "name": "??å¿«çœ‹å½±è§†",
+            "name": "??¿ì¿´Ó°ÊÓ",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -392,7 +392,7 @@
         },
         {
             "key": "csp_Czsapp",
-            "name": "??å‚é•¿èµ„æº",
+            "name": "??³§³¤×ÊÔ´",
             "type": 3,
             "api": "csp_Czsapp",
             "playerType": 2,
@@ -403,7 +403,7 @@
         },
         {
             "key": "csp_Bdys",
-            "name": "??å“”å˜€å½±è§†",
+            "name": "??ßÙàÖÓ°ÊÓ",
             "type": 3,
             "api": "csp_Bdys",
             "searchable": 1,
@@ -412,7 +412,7 @@
         },
         {
             "key": "csp_Ddys",
-            "name": "??ä½ç«¯å½±è§†",
+            "name": "??µÍ¶ËÓ°ÊÓ",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -421,7 +421,7 @@
         },
         {
             "key": "csp_JianPian",
-            "name": "??èç‰‡",
+            "name": "??¼öÆ¬",
             "type": 3,
             "api": "csp_JianPian",
             "playerType": 1,
@@ -441,7 +441,7 @@
         },
         {
             "key": "csp_Bili",
-            "name": "??å“”å“©ç»¼åˆ",
+            "name": "??ßÙÁ¨×ÛºÏ",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -450,94 +450,94 @@
             "ext": "./biliext/Bili.json"
         },
         {
-            "key": "csp_Biliå¹¼å„¿",
-            "name": "??å“”å“©å¹¼å„¿",
+            "key": "csp_BiliÓ×¶ù",
+            "name": "??ßÙÁ¨Ó×¶ù",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./biliext/å¹¼å„¿ä¹å›­.json"
+            "ext": "./biliext/Ó×¶ùÀÖÔ°.json"
         },
         {
-            "key": "csp_Biliå°‘å„¿",
-            "name": "??å“”å“©å°‘å„¿",
+            "key": "csp_BiliÉÙ¶ù",
+            "name": "??ßÙÁ¨ÉÙ¶ù",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./biliext/å°‘å„¿æ•™è‚².json"
+            "ext": "./biliext/ÉÙ¶ù½ÌÓı.json"
         },
         {
-            "key": "csp_Biliå°å­¦",
-            "name": "??å“”å“©å°å­¦",
+            "key": "csp_BiliĞ¡Ñ§",
+            "name": "??ßÙÁ¨Ğ¡Ñ§",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./biliext/å°å­¦è¯¾å ‚.json"
+            "ext": "./biliext/Ğ¡Ñ§¿ÎÌÃ.json"
         },
         {
-            "key": "csp_Biliåˆä¸­",
-            "name": "??å“”å“©åˆä¸­",
+            "key": "csp_Bili³õÖĞ",
+            "name": "??ßÙÁ¨³õÖĞ",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./biliext/åˆä¸­è¯¾å ‚.json"
+            "ext": "./biliext/³õÖĞ¿ÎÌÃ.json"
         },
         {
-            "key": "csp_Bilié«˜ä¸­",
-            "name": "??å“”å“©é«˜ä¸­",
+            "key": "csp_Bili¸ßÖĞ",
+            "name": "??ßÙÁ¨¸ßÖĞ",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./biliext/é«˜ä¸­è¯¾å ‚.json"
+            "ext": "./biliext/¸ßÖĞ¿ÎÌÃ.json"
         },
         {
-            "key": "JSå“”å“©ç›´æ’­",
-            "name": "å“”å“©ç›´æ’­[js]",
+            "key": "JSßÙÁ¨Ö±²¥",
+            "name": "ßÙÁ¨Ö±²¥[js]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./js/å“”å“©ç›´æ’­.js"
+            "ext": "./js/ßÙÁ¨Ö±²¥.js"
         },
         {
-            "key": "csp_XYQHiker_å…”å°è´",
-            "name": "å…”å°è´(XYQH)",
+            "key": "csp_XYQHiker_ÍÃĞ¡±´",
+            "name": "ÍÃĞ¡±´(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å…”å°è´.json"
+            "ext": "./XYQHiker/ÍÃĞ¡±´.json"
         },
         {
-            "key": "csp_XYQHiker_å…”å°è´2",
-            "name": "å…”å°è´2(XYQH)",
+            "key": "csp_XYQHiker_ÍÃĞ¡±´2",
+            "name": "ÍÃĞ¡±´2(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å…”å°è´2.json"
+            "ext": "./XYQHiker/ÍÃĞ¡±´2.json"
         },
         {
-            "key": "csp_XYQHiker_æ’­è§†ç«¥è¶£",
-            "name": "æ’­è§†ç«¥è¶£(XYQH)",
+            "key": "csp_XYQHiker_²¥ÊÓÍ¯È¤",
+            "name": "²¥ÊÓÍ¯È¤(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æ’­è§†ç«¥è¶£.json"
+            "ext": "./XYQHiker/²¥ÊÓÍ¯È¤.json"
         },
         {
             "key": "emofun",
@@ -550,304 +550,304 @@
             "ext": "http://one3.emofun.top/mogai_api.php/v1.vod"
         },
         {
-            "key": "csp_XYQHiker_ç•°ä¸–ç•Œå‹•æ¼«",
-            "name": "ç•°ä¸–ç•Œå‹•æ¼«(HM2)",
+            "key": "csp_XYQHiker_®ÊÀ½ç„ÓÂş",
+            "name": "®ÊÀ½ç„ÓÂş(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç•°ä¸–ç•Œå‹•æ¼«.json"
+            "ext": "./XYQHiker/®ÊÀ½ç„ÓÂş.json"
         },
         {
-            "key": "csp_XYQHiker_DJå‘¦å‘¦éŸ³ä¹ç½‘",
-            "name": "??DJå‘¦å‘¦éŸ³ä¹ç½‘(XYQH)",
+            "key": "csp_XYQHiker_DJßÏßÏÒôÀÖÍø",
+            "name": "??DJßÏßÏÒôÀÖÍø(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/DJå‘¦å‘¦éŸ³ä¹ç½‘.json"
+            "ext": "./XYQHiker/DJßÏßÏÒôÀÖÍø.json"
         },
         {
-            "key": "csp_XYQHiker_é…·å¥‡MV",
-            "name": "é…·å¥‡MV(XYQH)",
+            "key": "csp_XYQHiker_¿áÆæMV",
+            "name": "¿áÆæMV(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./XYQHiker/é…·å¥‡MV.json"
+            "ext": "./XYQHiker/¿áÆæMV.json"
         },
         {
-            "key": "csp_XYQHiker_çŸ­å‰§ç½‘",
-            "name": "çŸ­å‰§ç½‘",
+            "key": "csp_XYQHiker_¶Ì¾çÍø",
+            "name": "¶Ì¾çÍø",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/çŸ­å‰§ç½‘.json"
+            "ext": "./XYQHiker/¶Ì¾çÍø.json"
         },
         {
-            "key": "csp_XYQHiker_è¿·è¿·å‰§",
-            "name": "è¿·è¿·å‰§",
+            "key": "csp_XYQHiker_ÃÔÃÔ¾ç",
+            "name": "ÃÔÃÔ¾ç",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è¿·è¿·å‰§.json"
+            "ext": "./XYQHiker/ÃÔÃÔ¾ç.json"
         },
         {
-            "key": "csp_XYQHiker_MOFLIXå½±é™¢",
-            "name": "MOFLIXå½±é™¢",
+            "key": "csp_XYQHiker_MOFLIXÓ°Ôº",
+            "name": "MOFLIXÓ°Ôº",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/MOFLIXå½±é™¢.json"
+            "ext": "./XYQHiker/MOFLIXÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_å¥½æˆç½‘",
-            "name": "å¥½æˆç½‘",
+            "key": "csp_XYQHiker_ºÃÏ·Íø",
+            "name": "ºÃÏ·Íø",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å¥½æˆç½‘.json"
+            "ext": "./XYQHiker/ºÃÏ·Íø.json"
         },
         {
-            "key": "csp_XYQHiker_é‡å­å½±è§†",
-            "name": "é‡å­å½±è§†(HM2)",
+            "key": "csp_XYQHiker_Á¿×ÓÓ°ÊÓ",
+            "name": "Á¿×ÓÓ°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é‡å­å½±è§†.json"
+            "ext": "./XYQHiker/Á¿×ÓÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_çº¢é¢†å·¾å½±é™¢",
-            "name": "çº¢é¢†å·¾å½±é™¢(HM2)",
+            "key": "csp_XYQHiker_ºìÁì½íÓ°Ôº",
+            "name": "ºìÁì½íÓ°Ôº(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/çº¢é¢†å·¾å½±é™¢.json"
+            "ext": "./XYQHiker/ºìÁì½íÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_å°çŒ«å’ª",
-            "name": "å°çŒ«å’ª(XYQH)",
+            "key": "csp_XYQHiker_Ğ¡Ã¨ßä",
+            "name": "Ğ¡Ã¨ßä(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å°çŒ«å’ª.json"
+            "ext": "./XYQHiker/Ğ¡Ã¨ßä.json"
         },
         {
-            "key": "csp_XYQHiker_55å½±è§†",
-            "name": "55å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_55Ó°ÊÓ",
+            "name": "55Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/55å½±è§†.json"
+            "ext": "./XYQHiker/55Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_555å½±è§†",
-            "name": "555å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_555Ó°ÊÓ",
+            "name": "555Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/555å½±è§†.json"
+            "ext": "./XYQHiker/555Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_A8å½±è§†",
-            "name": "A8å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_A8Ó°ÊÓ",
+            "name": "A8Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/A8å½±è§†.json"
+            "ext": "./XYQHiker/A8Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_æå®¢å½±é™¢",
-            "name": "æå®¢å½±é™¢(XYQH)",
+            "key": "csp_XYQHiker_¼«¿ÍÓ°Ôº",
+            "name": "¼«¿ÍÓ°Ôº(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æå®¢å½±é™¢.json"
+            "ext": "./XYQHiker/¼«¿ÍÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_è‡­è›‹è›‹å½±è§†",
-            "name": "è‡­è›‹è›‹å½±è§†(HM2)",
+            "key": "csp_XYQHiker_³ôµ°µ°Ó°ÊÓ",
+            "name": "³ôµ°µ°Ó°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è‡­è›‹è›‹å½±è§†.json"
+            "ext": "./XYQHiker/³ôµ°µ°Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_å†œæ°‘å½±è§†",
-            "name": "?????å†œæ°‘å½±è§†(HM2)",
+            "key": "csp_XYQHiker_Å©ÃñÓ°ÊÓ",
+            "name": "?????Å©ÃñÓ°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å†œæ°‘å½±è§†.json"
+            "ext": "./XYQHiker/Å©ÃñÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_å¥‡è¶£å½±è§†",
-            "name": "å¥‡è¶£å½±è§†(HM2)",
+            "key": "csp_XYQHiker_ÆæÈ¤Ó°ÊÓ",
+            "name": "ÆæÈ¤Ó°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å¥‡è¶£å½±è§†.json"
+            "ext": "./XYQHiker/ÆæÈ¤Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_ä¹é±¼å½±è§†",
-            "name": "ä¹é±¼å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ÀÖÓãÓ°ÊÓ",
+            "name": "ÀÖÓãÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ä¹é±¼å½±è§†.json"
+            "ext": "./XYQHiker/ÀÖÓãÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_æ­ªç‰‡æ˜Ÿçƒ",
-            "name": "æ­ªç‰‡æ˜Ÿçƒ(XYQH)",
+            "key": "csp_XYQHiker_ÍáÆ¬ĞÇÇò",
+            "name": "ÍáÆ¬ĞÇÇò(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æ­ªç‰‡æ˜Ÿçƒ.json"
+            "ext": "./XYQHiker/ÍáÆ¬ĞÇÇò.json"
         },
         {
-            "key": "csp_XYQHiker_98å½±é™¢",
-            "name": "98å½±é™¢(XYQH)",
+            "key": "csp_XYQHiker_98Ó°Ôº",
+            "name": "98Ó°Ôº(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/98å½±é™¢.json"
+            "ext": "./XYQHiker/98Ó°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_ä¸ƒæ–°å½±è§†",
-            "name": "ä¸ƒæ–°å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ÆßĞÂÓ°ÊÓ",
+            "name": "ÆßĞÂÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ä¸ƒæ–°å½±è§†.json"
+            "ext": "./XYQHiker/ÆßĞÂÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_æ·±è“å½±è§†",
-            "name": "æ·±è“å½±è§†(HM2)",
+            "key": "csp_XYQHiker_ÉîÀ¶Ó°ÊÓ",
+            "name": "ÉîÀ¶Ó°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/æ·±è“å½±è§†.json"
+            "ext": "./XYQHiker/ÉîÀ¶Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_è¾¾è¾¾é¾Ÿ",
-            "name": "è¾¾è¾¾é¾Ÿ(XYQH)",
+            "key": "csp_XYQHiker_´ï´ï¹ê",
+            "name": "´ï´ï¹ê(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è¾¾è¾¾é¾Ÿ.json"
+            "ext": "./XYQHiker/´ï´ï¹ê.json"
         },
         {
-            "key": "csp_XYQHiker_å…„å¼Ÿå½±è§†",
-            "name": "å…„å¼Ÿå½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ĞÖµÜÓ°ÊÓ",
+            "name": "ĞÖµÜÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å…„å¼Ÿå½±è§†.json"
+            "ext": "./XYQHiker/ĞÖµÜÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_å¹²é¥­å½±è§†",
-            "name": "å¹²é¥­å½±è§†(HM2)",
+            "key": "csp_XYQHiker_¸É·¹Ó°ÊÓ",
+            "name": "¸É·¹Ó°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å¹²é¥­å½±è§†.json"
+            "ext": "./XYQHiker/¸É·¹Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_çœ‹ä¸€çœ‹å½±è§†",
-            "name": "çœ‹ä¸€çœ‹å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_¿´Ò»¿´Ó°ÊÓ",
+            "name": "¿´Ò»¿´Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/çœ‹ä¸€çœ‹å½±è§†.json"
+            "ext": "./XYQHiker/¿´Ò»¿´Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_ç§‹éœç”µå½±",
-            "name": "ç§‹éœç”µå½±(HM1)",
+            "key": "csp_XYQHiker_ÇïÏ¼µçÓ°",
+            "name": "ÇïÏ¼µçÓ°(HM1)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç§‹éœç”µå½±.json"
+            "ext": "./XYQHiker/ÇïÏ¼µçÓ°.json"
         },
         {
-            "key": "csp_XYQHiker_ç§‹éœç”µå½±ç½‘",
-            "name": "??ç§‹éœç”µå½±ç½‘(HM2)",
+            "key": "csp_XYQHiker_ÇïÏ¼µçÓ°Íø",
+            "name": "??ÇïÏ¼µçÓ°Íø(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç§‹éœç”µå½±ç½‘.json"
+            "ext": "./XYQHiker/ÇïÏ¼µçÓ°Íø.json"
         },
         {
-            "key": "csp_XYQHiker_ä¹çŒªå½±è§†",
-            "name": "??ä¹çŒªå½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ÀÖÖíÓ°ÊÓ",
+            "name": "??ÀÖÖíÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ä¹çŒªTV.json"
+            "ext": "./XYQHiker/ÀÖÖíTV.json"
         },
         {
-            "key": "csp_XYQHiker_åœ¨çº¿ä¹‹å®¶",
-            "name": "åœ¨çº¿ä¹‹å®¶(HM1)",
+            "key": "csp_XYQHiker_ÔÚÏßÖ®¼Ò",
+            "name": "ÔÚÏßÖ®¼Ò(HM1)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/åœ¨çº¿ä¹‹å®¶.json"
+            "ext": "./XYQHiker/ÔÚÏßÖ®¼Ò.json"
         },
         {
             "key": "csp_XYQHiker_HDmoli",
@@ -870,168 +870,168 @@
             "ext": "./XYQHiker/voflix HD.json"
         },
         {
-            "key": "csp_XYQHiker_å¥ˆé£ä¸­æ–‡",
-            "name": "å¥ˆé£ä¸­æ–‡(HM2)",
+            "key": "csp_XYQHiker_ÄÎ·ÉÖĞÎÄ",
+            "name": "ÄÎ·ÉÖĞÎÄ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å¥ˆé£ä¸­æ–‡.json"
+            "ext": "./XYQHiker/ÄÎ·ÉÖĞÎÄ.json"
         },
         {
-            "key": "csp_XYQHiker_é¸­å¥ˆé£å½±è§†",
-            "name": "??é¸­å¥ˆé£å½±è§†(HM2)",
+            "key": "csp_XYQHiker_Ñ¼ÄÎ·ÉÓ°ÊÓ",
+            "name": "??Ñ¼ÄÎ·ÉÓ°ÊÓ(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é¸­å¥ˆé£å½±è§†.json"
+            "ext": "./XYQHiker/Ñ¼ÄÎ·ÉÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_è“å…‰å½±é™¢",
-            "name": "è“å…‰å½±é™¢(HM2)",
+            "key": "csp_XYQHiker_À¶¹âÓ°Ôº",
+            "name": "À¶¹âÓ°Ôº(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è“å…‰å½±é™¢.json"
+            "ext": "./XYQHiker/À¶¹âÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_å½±è§†å·¥åœº",
-            "name": "å½±è§†å·¥åœº(XYQH)",
+            "key": "csp_XYQHiker_Ó°ÊÓ¹¤³¡",
+            "name": "Ó°ÊÓ¹¤³¡(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å½±è§†å·¥åœº.json"
+            "ext": "./XYQHiker/Ó°ÊÓ¹¤³¡.json"
         },
         {
-            "key": "csp_XYQHiker_å½±æ¸£æ¸£å½±è§†",
-            "name": "å½±æ¸£æ¸£å½±è§†??(HM2)",
+            "key": "csp_XYQHiker_Ó°ÔüÔüÓ°ÊÓ",
+            "name": "Ó°ÔüÔüÓ°ÊÓ??(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å½±æ¸£æ¸£å½±è§†.json"
+            "ext": "./XYQHiker/Ó°ÔüÔüÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_ç”µå½±ç›’å­",
-            "name": "??ç”µå½±ç›’å­(XYQH)",
+            "key": "csp_XYQHiker_µçÓ°ºĞ×Ó",
+            "name": "??µçÓ°ºĞ×Ó(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç”µå½±ç›’å­.json"
+            "ext": "./XYQHiker/µçÓ°ºĞ×Ó.json"
         },
         {
-            "key": "csp_XYQHiker_è€çœ‹ç‚¹æ’­",
-            "name": "è€çœ‹ç‚¹æ’­(XYQH)",
+            "key": "csp_XYQHiker_ÄÍ¿´µã²¥",
+            "name": "ÄÍ¿´µã²¥(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/è€çœ‹ç‚¹æ’­.json"
+            "ext": "./XYQHiker/ÄÍ¿´µã²¥.json"
         },
         {
-            "key": "csp_XYQHiker_é€Ÿæœå½±é™¢",
-            "name": "é€Ÿæœå½±é™¢(XYQH)",
+            "key": "csp_XYQHiker_ËÙËÑÓ°Ôº",
+            "name": "ËÙËÑÓ°Ôº(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é€Ÿæœå½±é™¢.json"
+            "ext": "./XYQHiker/ËÙËÑÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_ç–¯ç‹—å½±è§†",
-            "name": "??ç–¯ç‹—å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_·è¹·Ó°ÊÓ",
+            "name": "??·è¹·Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/ç–¯ç‹—å½±è§†.json"
+            "ext": "./XYQHiker/·è¹·Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_çˆ±çœ‹å½±é™¢",
-            "name": "çˆ±çœ‹å½±é™¢(XYQH)",
+            "key": "csp_XYQHiker_°®¿´Ó°Ôº",
+            "name": "°®¿´Ó°Ôº(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/çˆ±çœ‹å½±é™¢.json"
+            "ext": "./XYQHiker/°®¿´Ó°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_çˆ±çœ‹å½±è§†",
-            "name": "çˆ±çœ‹å½±è§†(çœŸä¸å¡)",
+            "key": "csp_XYQHiker_°®¿´Ó°ÊÓ",
+            "name": "°®¿´Ó°ÊÓ(Õæ²»¿¨)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/çˆ±çœ‹å½±è§†.json"
+            "ext": "./XYQHiker/°®¿´Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_GimyTVåŠ‡è¿·",
-            "name": "GimyTVåŠ‡è¿·??(XYQH)",
+            "key": "csp_XYQHiker_GimyTV„¡ÃÔ",
+            "name": "GimyTV„¡ÃÔ??(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/GimyTVåŠ‡è¿·.json"
+            "ext": "./XYQHiker/GimyTV„¡ÃÔ.json"
         },
         {
-            "key": "csp_XYQHiker_å­å­å½±è§†",
-            "name": "å­å­å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_×Ó×ÓÓ°ÊÓ",
+            "name": "×Ó×ÓÓ°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å­å­å½±è§†.json"
+            "ext": "./XYQHiker/×Ó×ÓÓ°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_ç´ ç™½ç™½å½±è§†",
-            "name": "??ç´ ç™½ç™½å½±è§†(XYQH)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/ç´ ç™½ç™½å½±è§†.json"
-        },
-        {
-            "key": "csp_XYQHiker_å‚é•¿å½±è§†",
-            "name": "å‚é•¿å½±è§†(XYQH)",
+            "key": "csp_XYQHiker_ËØ°×°×Ó°ÊÓ",
+            "name": "??ËØ°×°×Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å‚é•¿å½±è§†.json"
+            "ext": "./XYQHiker/ËØ°×°×Ó°ÊÓ.json"
         },
         {
-            "key": "csp_XYQHiker_COKEMVå½±é™¢",
-            "name": "COKEMVå½±é™¢(XYQH)",
+            "key": "csp_XYQHiker_³§³¤Ó°ÊÓ",
+            "name": "³§³¤Ó°ÊÓ(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/COKEMVå½±é™¢.json"
+            "ext": "./XYQHiker/³§³¤Ó°ÊÓ.json"
+        },
+        {
+            "key": "csp_XYQHiker_COKEMVÓ°Ôº",
+            "name": "COKEMVÓ°Ôº(XYQH)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQHiker/COKEMVÓ°Ôº.json"
         },
         {
             "key": "csp_XYQHiker_CokemvFun",
@@ -1055,64 +1055,64 @@
             "ext": "./XYQHiker/MayiTube.json"
         },
         {
-            "key": "csp_XYQHiker_Vidhubè§†é¢‘åº“",
-            "name": "??Vidhubè§†é¢‘åº“(XYQH)",
+            "key": "csp_XYQHiker_VidhubÊÓÆµ¿â",
+            "name": "??VidhubÊÓÆµ¿â(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/Vidhubè§†é¢‘åº“.json"
+            "ext": "./XYQHiker/VidhubÊÓÆµ¿â.json"
         },
         {
-            "key": "csp_XYQHiker_å®ä»™HD",
-            "name": "å®ä»™HD(XYQH)",
+            "key": "csp_XYQHiker_±¦ÏÉHD",
+            "name": "±¦ÏÉHD(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/å®ä»™HD.json"
+            "ext": "./XYQHiker/±¦ÏÉHD.json"
         },
         {
-            "key": "csp_XYQHiker_l0lå½±é™¢",
-            "name": "l0lå½±é™¢(HM2)",
+            "key": "csp_XYQHiker_l0lÓ°Ôº",
+            "name": "l0lÓ°Ôº(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/l0lå½±é™¢.json"
+            "ext": "./XYQHiker/l0lÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_é”è¡ŒåŠ é€Ÿå½±é™¢",
-            "name": "é”è¡ŒåŠ é€Ÿå½±é™¢(HM2)",
+            "key": "csp_XYQHiker_ÈñĞĞ¼ÓËÙÓ°Ôº",
+            "name": "ÈñĞĞ¼ÓËÙÓ°Ôº(HM2)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/é”è¡ŒåŠ é€Ÿå½±é™¢.json"
+            "ext": "./XYQHiker/ÈñĞĞ¼ÓËÙÓ°Ôº.json"
         },
         {
-            "key": "csp_XYQHiker_æ— æ’ä»¶ç›´æ’­",
-            "name": "??æ— æ’ä»¶ç›´æ’­??(XYQH)",
+            "key": "csp_XYQHiker_ÎŞ²å¼şÖ±²¥",
+            "name": "??ÎŞ²å¼şÖ±²¥??(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQHiker/æ— æ’ä»¶ç›´æ’­.json"
+            "ext": "./XYQHiker/ÎŞ²å¼şÖ±²¥.json"
         },
         {
-            "key": "csp_XYQBiu_88çœ‹çƒ",
-            "name": "88çœ‹çƒ(XYQ)",
+            "key": "csp_XYQBiu_88¿´Çò",
+            "name": "88¿´Çò(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQBiu/88çœ‹çƒ.json"
+            "ext": "./XYQBiu/88¿´Çò.json"
         },
         {
             "key": "csp_Yj1211",
@@ -1125,114 +1125,114 @@
             "filterable": 1
         },
         {
-            "key": "DRJS_è™ç‰™",
-            "name": "è™ç‰™ç›´æ’­(JS)",
+            "key": "DRJS_»¢ÑÀ",
+            "name": "»¢ÑÀÖ±²¥(JS)",
             "type": 3,
             "api": "./lib/drpy2.min.js",
-            "ext": "./js/è™ç‰™ç›´æ’­.js",
+            "ext": "./js/»¢ÑÀÖ±²¥.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
         },
         {
-            "key": "csp_XYQHiker_è™ç‰™ç›´æ’­",
-            "name": "??è™ç‰™ç›´æ’­(XYQH)",
+            "key": "csp_XYQHiker_»¢ÑÀÖ±²¥",
+            "name": "??»¢ÑÀÖ±²¥(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQHiker/è™ç‰™ç›´æ’­.json"
+            "ext": "./XYQHiker/»¢ÑÀÖ±²¥.json"
         },
         {
-            "key": "csp_XYQHiker_æ–—é±¼ç›´æ’­",
-            "name": "??æ–—é±¼ç›´æ’­(XYQH)",
+            "key": "csp_XYQHiker_¶·ÓãÖ±²¥",
+            "name": "??¶·ÓãÖ±²¥(XYQH)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./XYQHiker/æ–—é±¼ç›´æ’­.json"
+            "ext": "./XYQHiker/¶·ÓãÖ±²¥.json"
         },
         {
-            "key": "csp_XYQBiu_ç½‘æ˜“CCç›´æ’­",
-            "name": "??ç½‘æ˜“CCç›´æ’­(XYQ)",
+            "key": "csp_XYQBiu_ÍøÒ×CCÖ±²¥",
+            "name": "??ÍøÒ×CCÖ±²¥(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQBiu/ç½‘æ˜“CCç›´æ’­.json"
+            "ext": "./XYQBiu/ÍøÒ×CCÖ±²¥.json"
         },
         {
-            "key": "csp_XYQBiu_310ç›´æ’­",
-            "name": "??310ç›´æ’­??(XYQ)",
+            "key": "csp_XYQBiu_310Ö±²¥",
+            "name": "??310Ö±²¥??(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQBiu/310ç›´æ’­.json"
+            "ext": "./XYQBiu/310Ö±²¥.json"
         },
         {
-            "key": "csp_XYQBiu_éªšç«ç”µå½±ç½‘",
-            "name": "éªšç«ç”µå½±ç½‘(XYQ)",
+            "key": "csp_XYQBiu_É§»ğµçÓ°Íø",
+            "name": "É§»ğµçÓ°Íø(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/éªšç«ç”µå½±ç½‘.json"
+            "ext": "./XYQBiu/É§»ğµçÓ°Íø.json"
         },
         {
-            "key": "csp_XYQBiu_éªšç«ç”µå½±VIP",
-            "name": "éªšç«ç”µå½±VIP??(XYQ)",
+            "key": "csp_XYQBiu_É§»ğµçÓ°VIP",
+            "name": "É§»ğµçÓ°VIP??(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/éªšç«ç”µå½±VIP.json"
+            "ext": "./XYQBiu/É§»ğµçÓ°VIP.json"
         },
         {
-            "key": "csp_XYQBiu_1985ç”µå½±ç½‘",
-            "name": "1985ç”µå½±ç½‘(XYQ)",
+            "key": "csp_XYQBiu_1985µçÓ°Íø",
+            "name": "1985µçÓ°Íø(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/1985ç”µå½±ç½‘.json"
+            "ext": "./XYQBiu/1985µçÓ°Íø.json"
         },
         {
-            "key": "csp_XYQBiu_ä¸ƒå°æ—¶å½±é™¢",
-            "name": "ä¸ƒå°æ—¶å½±é™¢(XYQ)",
+            "key": "csp_XYQBiu_ÆßĞ¡Ê±Ó°Ôº",
+            "name": "ÆßĞ¡Ê±Ó°Ôº(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/ä¸ƒå°æ—¶å½±é™¢.json"
+            "ext": "./XYQBiu/ÆßĞ¡Ê±Ó°Ôº.json"
         },
         {
-            "key": "csp_XYQBiu_èŠ±çŒ«TV",
-            "name": "??èŠ±çŒ«TV(XYQ)",
+            "key": "csp_XYQBiu_»¨Ã¨TV",
+            "name": "??»¨Ã¨TV(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/èŠ±çŒ«TV.json"
+            "ext": "./XYQBiu/»¨Ã¨TV.json"
         },
         {
-            "key": "csp_XYQBiu_TVBäº‘æ’­",
-            "name": "TVBäº‘æ’­(XYQ)",
+            "key": "csp_XYQBiu_TVBÔÆ²¥",
+            "name": "TVBÔÆ²¥(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/TVBäº‘æ’­.json"
+            "ext": "./XYQBiu/TVBÔÆ²¥.json"
         },
         {
             "key": "csp_XYQBiu_Libvio",
@@ -1245,28 +1245,28 @@
             "ext": "./XYQBiu/libvio.json"
         },
         {
-            "key": "csp_XYQBiu_çŸ³æ¦´ç”µå½±",
-            "name": "çŸ³æ¦´ç”µå½±",
+            "key": "csp_XYQBiu_Ê¯ÁñµçÓ°",
+            "name": "Ê¯ÁñµçÓ°",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQBiu/çŸ³æ¦´ç”µå½±.json"
+            "ext": "./XYQBiu/Ê¯ÁñµçÓ°.json"
         },
         {
-            "key": "csp_XYQBiu_åˆ†äº«çŸ­è§†é¢‘",
-            "name": "åˆ†äº«çŸ­è§†é¢‘(XYQ)",
+            "key": "csp_XYQBiu_·ÖÏí¶ÌÊÓÆµ",
+            "name": "·ÖÏí¶ÌÊÓÆµ(XYQ)",
             "type": 3,
             "api": "csp_XYQBiu",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-            "ext": "./XYQBiu/åˆ†äº«çŸ­è§†é¢‘.json"
+            "ext": "./XYQBiu/·ÖÏí¶ÌÊÓÆµ.json"
         },
         {
-            "key": "csp_appysv2_çœ‹å‰§å§",
-            "name": "çœ‹å‰§å§(æ™®é€š)",
+            "key": "csp_appysv2_¿´¾ç°É",
+            "name": "¿´¾ç°É(ÆÕÍ¨)",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1276,7 +1276,7 @@
         },
         {
             "key": "gczc",
-            "name": "å®˜é‡‡ç«™C",
+            "name": "¹Ù²ÉÕ¾C",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
@@ -1285,16 +1285,16 @@
             "ext": "http://154.12.90.7:86/api.php/app/"
         },
         {
-            "key": "å½±å›¾èµ„æº",
-            "name": "å½±å›¾èµ„æº(å®˜)",
+            "key": "Ó°Í¼×ÊÔ´",
+            "name": "Ó°Í¼×ÊÔ´(¹Ù)",
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
         },
         {
-            "key": "Ikunèµ„æº",
-            "name": "Ikunèµ„æº(åˆ‡ç‰‡)",
+            "key": "Ikun×ÊÔ´",
+            "name": "Ikun×ÊÔ´(ÇĞÆ¬)",
             "type": 0,
             "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
             "searchable": 1,
@@ -1303,12 +1303,12 @@
     ],
     "parses": [
         {
-            "name": "Webèšåˆ",
+            "name": "Web¾ÛºÏ",
             "type": 3,
             "url": "Web"
         },
         {
-            "name": "-å’¸é±¼-",
+            "name": "-ÏÌÓã-",
             "type": 0,
             "url": "https://jx.xyflv.cc/?url=",
             "ext": {
@@ -1319,7 +1319,7 @@
             }
         },
         {
-            "name": "-è™¾ç±³-",
+            "name": "-ÏºÃ×-",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1329,28 +1329,28 @@
             }
         },
         {
-            "name": "-çˆ±é…·-",
+            "name": "-°®¿á-",
             "type": 0,
             "url": "https://jx.zhanlangbu.com/?url=",
             "ext": {
                 "flag": [
                     "qq",
-                    "è…¾è®¯",
+                    "ÌÚÑ¶",
                     "qiyi",
-                    "çˆ±å¥‡è‰º",
-                    "å¥‡è‰º",
+                    "°®ÆæÒÕ",
+                    "ÆæÒÕ",
                     "youku",
-                    "ä¼˜é…·",
+                    "ÓÅ¿á",
                     "mgtv",
-                    "èŠ’æœ",
+                    "Ã¢¹û",
                     "letv",
-                    "ä¹è§†",
+                    "ÀÖÊÓ",
                     "pptv",
                     "PPTV",
                     "sohu",
                     "bilibili",
-                    "å“”å“©å“”å“©",
-                    "å“”å“©"
+                    "ßÙÁ¨ßÙÁ¨",
+                    "ßÙÁ¨"
                 ],
                 "ext": {
                     "header": {
@@ -1360,7 +1360,7 @@
             }
         },
         {
-            "name": "-äº‘è§£æ-",
+            "name": "-ÔÆ½âÎö-",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
             "ext": {
@@ -1380,7 +1380,7 @@
             }
         },
         {
-            "name": "-å‰–äº‘-",
+            "name": "-ÆÊÔÆ-",
             "type": 0,
             "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
             "ext": {
@@ -1390,7 +1390,7 @@
             }
         },
         {
-            "name": "-å…¨çœ‹-",
+            "name": "-È«¿´-",
             "type": 0,
             "url": "https://jx.quankan.app/?url=",
             "ext": {
@@ -1400,7 +1400,7 @@
             }
         },
         {
-            "name": "-çˆ±è±†-",
+            "name": "-°®¶¹-",
             "type": 0,
             "url": "https://jx.aidouer.net/?url=",
             "ext": {
@@ -1466,7 +1466,7 @@
             ]
         },
         {
-            "name": "é‡‡é›†ç«™å¹¿å‘Š",
+            "name": "²É¼¯Õ¾¹ã¸æ",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy",
@@ -1481,35 +1481,35 @@
             ]
         },
         {
-            "name": "ç£åŠ›å¹¿å‘Š",
+            "name": "´ÅÁ¦¹ã¸æ",
             "hosts": [
                 "magnet"
             ],
             "regex": [
-                "æ›´å¤š",
-                "è¯·è®¿é—®",
+                "¸ü¶à",
+                "Çë·ÃÎÊ",
                 "example",
-                "ç¤¾ å€",
+                "Éç …^",
                 "x u u",
-                "æœ€ æ–°",
-                "ç›´ æ’­",
-                "æ›´ æ–°",
-                "ç¤¾ åŒº",
-                "æœ‰ è¶£",
-                "è‹±çš‡ä½“è‚²",
-                "å…¨ä¸­æ–‡AVåœ¨çº¿",
-                "æ¾³é—¨çš‡å† èµŒåœº",
-                "å“¥å“¥å¿«æ¥",
-                "ç¾å¥³è·å®˜",
-                "è£¸èŠ",
-                "æ–°ç‰‡é¦–å‘",
+                "×î ĞÂ",
+                "Ö± ²¥",
+                "¸ü ĞÂ",
+                "Éç Çø",
+                "ÓĞ È¤",
+                "Ó¢»ÊÌåÓı",
+                "È«ÖĞÎÄAVÔÚÏß",
+                "°ÄÃÅ»Ê¹Ú¶Ä³¡",
+                "¸ç¸ç¿ìÀ´",
+                "ÃÀÅ®ºÉ¹Ù",
+                "ÂãÁÄ",
+                "ĞÂÆ¬Ê×·¢",
                 "UUE29"
             ]
         }
     ],
     "ijk": [
         {
-            "group": "è½¯è§£ç ",
+            "group": "Èí½âÂë",
             "options": [
                 {
                     "category": 4,
@@ -1589,7 +1589,7 @@
             ]
         },
         {
-            "group": "ç¡¬è§£ç ",
+            "group": "Ó²½âÂë",
             "options": [
                 {
                     "category": 4,
