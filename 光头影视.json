@@ -309,6 +309,56 @@
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
     },
+    	{
+			"key": "一起看 2",
+			"name": "一起看2",
+			"type": 3,
+			"api": "csp_YQKan",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+		},
+    	{
+			"key": "2酷影",
+			"name": "酷影",
+			"type": 3,
+			"api": "csp_AppYs",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+		},
+    {
+            "key": "大龟", 
+            "name": "甲鱼", 
+            "type": 3, 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "api": "csp_XBPQ", 
+            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/龟龟.json"
+        },
+     {
+      "key": "xgapp",
+      "name": "西瓜采集",
+      "type": 3,
+      "playerType": 2,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+      {
+            "key": "csp_wy",
+            "name": "午夜惊魂",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/梧叶秋声.json"
+        },
+          {"key": "lang", "name": "蓝光一线", "type": 1,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"},
     {"key":"Czsapp","name":"厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext": "https://www.czzy88.com/"},
     {"key":"蚂蚁","name":"蚂蚁┃直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
 {"key":"Auete","name":"奥特┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/"}, 
