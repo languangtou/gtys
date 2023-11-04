@@ -4,120 +4,92 @@
 
 "sites":[
 {"key":"豆豆","name":"光头祝你观影愉快","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+ {
+      "key": "爱奇异",
+      "name": "爱奇艺(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/aiqiyi.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "优酷",
+      "name": "优酷(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/youku.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/tengxun.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "芒果",
+      "name": "芒果(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/mangguo.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/caigou.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "360影视",
+      "name": "360影视(官)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
 {"key":"玩偶哥哥","name":"玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"一起看 ","name":"一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"玉米","name":"玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"蚂蚁","name":"蚂蚁┃直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
+ {
+      "key": "蚂蚁",
+      "name": "蚂蚁┃直连",
+      "type": 3,
+      "api": "csp_MYYS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://rzys.xyz"
+    },
+     {
+      "key": "csp_Ikanbot",
+      "name": "Ikanbot",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "csp_XYQHiker_影渣渣影视",
+      "name": "影渣渣影视(HM2)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/影渣渣影视.json"
+    },
 {"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 {"key":"csp_Nmys","name":"农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 {"key":"Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
- {
-      "key": "drpy_js_南瓜影视",
-      "name": "影视 | 南瓜影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/南瓜影视.js"
-    },
-     {
-      "key": "drpy_js_热播库",
-      "name": "影视 | 热播库[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/热播库.js"
-    },
-       {
-      "key": "drpy_js_爱看",
-      "name": "影视 | 爱看[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱看.js"
-    },
-       {
-      "key": "drpy_js_voflix",
-      "name": "影视 | voflix[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/voflix.js"
-    },
-        {
-      "key": "drpy_js_速看100[V2]",
-      "name": "影视 | 速看100[V2]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/速看100[V2].js"
-    },
-     {
-      "key": "drpy_js_北极狐[V2]",
-      "name": "影视 | 北极狐[V2]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/北极狐[V2].js"
-    },
-     {
-      "key": "drpy_js_大米星球[V2]",
-      "name": "影视 | 大米星球[V2]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/大米星球[V2].js"
-    },
-     {
-      "key": "drpy_js_360影视",
-      "name": "弹幕 | 360[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "弹幕 | 芒果[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "弹幕 | 腾讯[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "弹幕 | 爱奇艺[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "官源 | 搜狗[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/菜狗.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
-    },
-     {
-      "key": "drpy_js_量子影视",
-      "name": "影视 | 量子影视[js]",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/量子影视.js"
-    },
-     {
-            "key": "迷你库",
-            "name": "迷你仓库",
-            "type": 3,
-            "api": "csp_AppYs",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "http://www.miniku.cc/xgapp.php/v1/"
-        },
          {
             "key" : "js_v2-sj",
             "name" :"视界",
@@ -181,9 +153,7 @@
 			"filterable": 1,
 			"ext": "http://106.52.241.21:83/api.php/app/"
 		},
-     {"key":"mtv_pc_快看影视","name":"快看影视","type":3,"api":"csp_Kuaikan"       ,"searchable":1,"quickSearch":1,"filterable":1,"jar":""},
       {"key":"天天视频","name":"天天┃4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ttsp.live/api.php/app/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
-    {"key":"圣城影视","name":"圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/sc1080.json","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/天空资源.json"},
       {"key":"瑞丰","name":"瑞丰","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v2/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"},
     {"key":"光速资源","name":"光速资源(切)","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
