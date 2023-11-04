@@ -22,24 +22,33 @@
       "quickSearch": 0,
       "filterable": 0
     },
-         {
-            "key": "一起看 ",
-            "name": "一起┃App",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+{"key":"一起看 ","name":"一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"蚂蚁","name":"蚂蚁┃直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
+{"key":"csp_Nmys","name":"农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
+{"key":"南瓜","name":"南瓜┃App","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{
+            "key": "大龟", 
+            "name": "龟兔赛跑", 
+            "type": 3, 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 0, 
+            "api": "csp_XBPQ", 
+            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/龟龟.json"
         },
-      {
-            "key": "苞米",
-            "name": "苞米┃采集",
-            "type": 0,
-            "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-            "playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
+{"key":"77","name":"七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_Bttoo","name":"比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
+{"key":"Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
+{"key":"玉米","name":"玉米","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1},
+            "key": "2聚合",
+            "name": "遇见",
+            "type": 3,
+            "api": "csp_AppYsV2",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
+            "quickSearch": 2,
+            "filterable": 1,
+            "ext": "http://103.197.25.136:3836/api.php/app/"
         },
             {
             "key": "csp_XBP南坊",
@@ -97,35 +106,6 @@
             "filterable": 1,
             "ext": "https://www.kuin.one/api.php/app/"
         },
-             {
-            "key": "聚合",
-            "name": "遇见",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 2,
-            "filterable": 1,
-            "ext": "http://103.197.25.136:3836/api.php/app/"
-        },
-        {
-          "key":"77",
-          "name":"七七┃App",
-          "type":3
-          ,"api":"csp_Kunyu77",
-          "searchable":1,
-          "quickSearch":1,
-          "changeable":1
-          },
-        {
-          "key":"南瓜",
-          "name":"南瓜┃App",
-          "type":3,
-          "api":"csp_NanGua",
-          "playerType":2,
-          "searchable":1,
-          "quickSearch":1,
-          "changeable":1
-          },
          {
       "key": "迷你库（APP）",
       "name": "迷你库（APP）",
@@ -174,16 +154,6 @@
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
     },
-    {
-            "key": "大龟", 
-            "name": "甲鱼", 
-            "type": 3, 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 0, 
-            "api": "csp_XBPQ", 
-            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/龟龟.json"
-        },
       {
             "key": "csp_wy",
             "name": "午夜惊魂",
@@ -203,45 +173,6 @@
               "filterable":1,
               "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"
               },
-    {
-      "key":"蚂蚁",
-      "name":"蚂蚁┃直连",
-      "type":3,
-      "api":"csp_MYYS",
-      "searchable":1,
-      "quickSearch":1,
-      "changeable":1,
-      "ext":"http://rzys.xyz"
-      },
-{
-  "key":"csp_Bttoo",
-  "name":"比特┃直连",
-  "type":3,
-  "api":"csp_Bttwoo",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1
-  },
-{
-  "key":"Lib",
-  "name": "利播┃直连",
-  "type": 3,
-  "api": "csp_Libvio",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable":1,
-  "ext":"https://www.libvio.pro/"
-  },
-{
-  "key":"csp_Nmys",
-  "name":"农民┃直连",
-  "type":3,
-  "api":"csp_Nmys",
-  "searchable":1,
-  "quickSearch":1,
-  "changeable":1,
-  "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
-  },
     {
       "key":"搞笑",
       "name":"搞笑",
