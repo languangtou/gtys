@@ -1,5 +1,4 @@
 {
-    "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;fb5c876ad4c3ec2fa09733e74af98211",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "吉祥如意开门大吉",
     "lives": [
@@ -23,57 +22,6 @@
       "quickSearch": 0,
       "filterable": 0
     },
-      {
-      "key": "爱妻",
-      "name": "爱妻(官)",
-      "type": 3,
-      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/aiqiyi.js",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "酷不要脸",
-      "name": "酷不要脸(官)",
-      "type": 3,
-      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/youku.js",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "哪都疼",
-      "name": "哪都疼(官)",
-      "type": 3,
-      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/tengxun.js",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "大果果",
-      "name": "大果果(官)",
-      "type": 3,
-      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/mangguo.js",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "咬人的狗",
-      "name": "咬人的狗(官)",
-      "type": 3,
-      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
-      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/caigou.js",
-      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
-    {
-      "key": "转圈影视",
-      "name": "转圈影视(官)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
          {
             "key": "一起看 ",
             "name": "一起┃App",
@@ -81,20 +29,8 @@
             "api": "csp_YQKan",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-              "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "changeable": 1
         },
-    {
-      "key": "csp_WoGG",
-      "name": "玩偶哥哥┃4K(弹幕测试)",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$http://fd.888484.xyz:33/$$$关",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
       {
             "key": "苞米",
             "name": "苞米┃采集",
@@ -103,8 +39,7 @@
             "playUrl": "json:https://www.qiaoji8.com/tvbox/json.php?url=",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-              "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "filterable": 1
         },
             {
             "key": "csp_XBP南坊",
@@ -150,20 +85,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/sc1080.json",
-      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    "ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/sc1080.json"
     },
-    {
-      "key":"csp_biubiu_飞狐外传",
-      "name":"飞狐外传",
-      "type":3,
-      "api":"csp_XBiubiu",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":0,
-      "ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/天空资源.json",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-      },
        {
             "key": "csp_beijihu",
             "name": "┃极狐┃影视",
@@ -182,8 +105,7 @@
             "searchable": 1,
             "quickSearch": 2,
             "filterable": 1,
-            "ext": "http://103.197.25.136:3836/api.php/app/"，
-              "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "ext": "http://103.197.25.136:3836/api.php/app/"
         },
         {
           "key":"77",
@@ -192,8 +114,7 @@
           ,"api":"csp_Kunyu77",
           "searchable":1,
           "quickSearch":1,
-          "changeable":1,
-            "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+          "changeable":1
           },
         {
           "key":"南瓜",
@@ -203,16 +124,14 @@
           "playerType":2,
           "searchable":1,
           "quickSearch":1,
-          "changeable":1,
-            "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+          "changeable":1
           },
          {
       "key": "迷你库（APP）",
       "name": "迷你库（APP）",
       "type": 3,
       "api": "csp_AppYsV2",
-      "ext": "http://www.miniku.cc/xgapp.php/v1/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "ext": "http://www.miniku.cc/xgapp.php/v1/","jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
    },
    {
      "key":"狐狸",
@@ -222,8 +141,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":1,
-     "ext":"https://www.kuin.one/api.php/app/" ,
-     "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+     "ext":"https://www.kuin.one/api.php/app/" 
      },
            {
             "key": "csp_SNzy",
@@ -232,8 +150,7 @@
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-           "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "filterable": 1
            },
            {
              "key":"瑞丰",
@@ -243,108 +160,8 @@
              "searchable":1,
              "quickSearch":1,
              "filterable":1,
-             "ext":"http://www.miniku.cc/xgapp.php/v2/",
-             "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+             "ext":"http://www.miniku.cc/xgapp.php/v2/"
              },
-    {
-      "key":"雪山飞狐",
-      "name":"雪山飞狐",
-      "type":1,
-      "api":"https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable":1,
-      "quickSearch":1,
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-      },
-{
-  "key":"天龙八部",
-  "name":"天龙八部",
-  "type":1,
-  "api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"射雕英雄",
-  "name":"射雕英雄",
-  "type":1,
-  "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"鹿鼎记",
-  "name":"鹿鼎记",
-  "type":1,
-  "api":"http://jinyingzy.com/provide/vod",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"笑傲江湖",
-  "name":"笑傲江湖",
-  "type":1,
-  "api":"https://api.ukuapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"书剑恩仇",
-  "name":"书剑恩仇",
-  "type":1,
-  "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"神雕侠侣",
-  "name":"神雕侠侣",
-  "type":1,
-  "api":"http://cj.lziapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"侠客行",
-  "name":"侠客行",
-  "type":1,
-  "api":"http://sdzyapi.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"倚天屠龙",
-  "name":"倚天屠龙",
-  "type":1,
-  "api":"https://www.feisuzy.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-{
-  "key":"碧血剑",
-  "name":"碧血剑",
-  "type":1,
-  "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
-  "searchable":1,
-  "quickSearch":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-  },
-   {
-      "key": "淘淘资源",
-      "name": "淘淘",
-      "type": 1,
-      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
-      "searchable": 1,
-      "quickSearch": 1,
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
-    },
     {
       "key": "探探",
       "name": "影探┃App",
@@ -355,8 +172,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "ext": "vip.lyyytv.cn",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "ext": "vip.lyyytv.cn"
     },
     {
             "key": "大龟", 
@@ -366,8 +182,7 @@
             "quickSearch": 1, 
             "filterable": 0, 
             "api": "csp_XBPQ", 
-            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/龟龟.json",
-              "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/龟龟.json"
         },
       {
             "key": "csp_wy",
@@ -376,8 +191,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/梧叶秋声.json",
-              "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+            "filterable": 1,"ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/梧叶秋声.json"
         },
           {
             "key": "lang",
@@ -387,8 +201,7 @@
               "searchable":1,
               "quickSearch":1,
               "filterable":1,
-              "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/",
-                "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+              "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/"
               },
     {
       "key":"蚂蚁",
@@ -398,8 +211,7 @@
       "searchable":1,
       "quickSearch":1,
       "changeable":1,
-      "ext":"http://rzys.xyz",
-        "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "ext":"http://rzys.xyz"
       },
 {
   "key":"csp_Bttoo",
@@ -408,8 +220,7 @@
   "api":"csp_Bttwoo",
   "searchable":1,
   "quickSearch":1,
-  "changeable":1,
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+  "changeable":1
   },
 {
   "key":"Lib",
@@ -419,8 +230,7 @@
   "searchable": 1,
   "quickSearch": 1,
   "changeable":1,
-  "ext":"https://www.libvio.pro/",
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+  "ext":"https://www.libvio.pro/"
   },
 {
   "key":"csp_Nmys",
@@ -430,8 +240,7 @@
   "searchable":1,
   "quickSearch":1,
   "changeable":1,
-  "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json",
-    "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+  "ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
   },
     {
       "key":"搞笑",
@@ -441,8 +250,7 @@
       ,"searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./sub/Blixs.json",
-      "jar":"http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+      "ext":"./sub/Blixs.json"
       }
   ],
   "parses": [
