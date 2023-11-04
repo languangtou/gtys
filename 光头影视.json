@@ -212,15 +212,6 @@
       "timeout": 30,
       "ext": "vip.lyyytv.cn"
     },
-    	{
-			"key": "一起看 2",
-			"name": "一起看2",
-			"type": 3,
-			"api": "csp_YQKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-		},
     {
             "key": "大龟", 
             "name": "甲鱼", 
