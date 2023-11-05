@@ -68,6 +68,25 @@
       "changeable": 1,
       "ext": "http://rzys.xyz"
     },
+     {
+      "key": "淘片资源",
+      "name": "淘片",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+     {
+      "key": "csp_Ikanbot",
+      "name": "爱看Bot",
+      "type": 3,
+      "api": "csp_Ikanbot",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "[排序:lz线路,kuaik]",
+      "jar": "http://itvbox.cc/sft/Hk/Hk.jar;md5;0447a0d325220bd0c001c2a0fa0e69fa"
+    },
 {"key":"探探","name":"影探┃App","type":3,"playerType":"1","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 {"key":"csp_Nmys","name":"农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"},
 {"key":"Lib","name": "利播┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext":"https://www.libvio.pro/"},
