@@ -616,14 +616,6 @@
         "/servlet/"
       ]
     },
-     {
-      "name": "wowo",
-      "hosts": [
-        "vip.123pan.cn",
-        "rescdn.wuxivlog.cn"
-      ],
-      "regex": []
-    },
     {
       "name": "CL",
       "hosts": [
