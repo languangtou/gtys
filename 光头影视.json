@@ -76,7 +76,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-     {
+ {
       "key": "玉米",
       "name": "玉米┃采集",
       "type": 0,
@@ -482,65 +482,22 @@
         }
       }
     },
+     {
+      "name": "YuMi-vip",
+      "type": 1,
+      "url": "https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=",
+      "ext": {
+        "flag": [
+          "YuMi-vip"
+        ]
+      }
+    },
     {
       "name": "聚合1",
       "type": 3,
       "url": "Demo"
     },
     {"name":"公众号","type":1,"url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","YuMi-vip"]}},
-     {
-      "name": "YuMi-vip",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "爱奇艺",
-          "奇艺",
-          "qq",
-          "腾讯",
-          "youku",
-          "优酷",
-          "pptv",
-          "PPTV",
-          "letv",
-          "乐视",
-          "leshi",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩",
-          "mgtv",
-          "芒果",
-          "芒果"
-        ],
-        "header": {
-          "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "世界",
-      "type": 1,
-      "url": "http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "mgtv",
-          "YuMi-vip"
-        ]
-      }
-    },
-    {
-      "name": "比u比u",
-      "type": 1,
-      "url": "https://jxjson.cf/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "mgtv",
-          "YuMi-vip"
-        ]
-      }
-    },
     {
       "name": "神秘的哥哥们",
       "type": 0,
@@ -594,7 +551,7 @@
         "video/tos/cn"
       ]
     },
-    {
+     {
       "name": "蜗牛直连去广",
       "hosts": [
         "vip.123pan.cn",
@@ -604,78 +561,6 @@
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
         "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-      ]
-    },
-     {
-      "name": "阳图",
-      "hosts": [
-        "jx.yangtu.top"
-      ],
-      "regex": [
-        "download4.caiyun.feixin.10086.cn",
-        "/servlet/"
-      ]
-    },
-    {
-      "name": "CL",
-      "hosts": [
-        "magnet"
-      ],
-      "regex": [
-        "最 新",
-        "直 播",
-        "更 新"
-      ]
-    },
-    {
-      "name": "锁你",
-      "hosts": [
-        "suonizy"
-      ],
-      "regex": [
-        "15.1666"
-      ]
-    },
-    {
-      "name": "抱疯",
-      "hosts": [
-        "bfzy"
-      ],
-      "regex": []
-    },
-    {
-      "name": "亮子",
-      "hosts": [
-        "vip.lz",
-        "hd.lz",
-        "v.cdnlz"
-      ],
-      "regex": []
-    },
-    {
-      "name": "飞幡",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy"
-      ],
-      "regex": []
-    },
-    {
-      "name": "伙散",
-      "hosts": [
-        "huoshan.com"
-      ],
-      "regex": [
-        "item_id="
-      ]
-    },
-    {
-      "name": "痘印",
-      "hosts": [
-        "douyin.com"
-      ],
-      "regex": [
-        "is_play_url="
       ]
     },
      {
