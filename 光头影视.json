@@ -12,3 +12,56 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
+"sites":[
+{"key":"豆豆","name":"光头祝你观影愉快","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+ {
+      "key": "爱奇异",
+      "name": "爱奇艺(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/aiqiyi.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "优酷",
+      "name": "优酷(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/youku.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "腾讯",
+      "name": "腾讯(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/tengxun.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "芒果",
+      "name": "芒果(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/mangguo.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "搜狗",
+      "name": "搜狗(官)",
+      "type": 3,
+      "api": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/drpy2.min.js",
+      "ext": "http://ftp6587948.host121.Sanfengyun.cn/bd/ysc/caigou.js",
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
+    {
+      "key": "360影视",
+      "name": "360影视(官)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "http://ftp6587948.host121.Sanfengyun.cn/bd/jar/ysc.jar"
+    },
