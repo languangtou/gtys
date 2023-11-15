@@ -82,16 +82,6 @@
       "changeable": 0
     },
  {
-      "key": "玉米",
-      "name": "玉米┃采集",
-      "type": 0,
-      "api": "http://124.222.116.5/macos/api.php/provide/vod/at/xml/",
-      "playUrl": "json:http://luoye.shop/jiexi/米太硬.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
       "key": "蚂蚁",
       "name": "蚂蚁┃直连",
       "type": 3,
