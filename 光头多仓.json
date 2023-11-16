@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "https://jihulab.com/zuiju/lanjingling/-/raw/main/光头影视.json",
-            "name": "光头影视"
+            "url": "https://jihulab.com/guangtoulao/juzilan/-/raw/master/光头影视主线路.json",
+            "name": "光头影视主线路"
         },
         {
-            "url": "https://raw.gitmirror.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "香情"
+            "url": "https://jihulab.com/guangtoulao/juzilan/-/raw/master/光头影视备用线路",
+            "name": "光头影视备用线路"
         }
     ]
 }
