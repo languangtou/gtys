@@ -3,10 +3,12 @@
   "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
   "lives": [
     {
-      "name": "live",
+      "name": "电视直播",
       "type": 0,
-      "url": "./直播",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "url": "./guang.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
   "warningText": "开门大吉吉祥如意",
