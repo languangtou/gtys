@@ -11,11 +11,11 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "开门大吉吉祥如意",
+  "warningText": "❤️开门大吉吉祥如意",
   "sites": [
     {
       "key": "js_豆瓣热播",
-      "name": "光头祝您观影愉快",
+      "name": "❤️光头祝您观影愉快",
       "type": 3,
       "api": "./lib/Api.js",
       "searchable": 0,
