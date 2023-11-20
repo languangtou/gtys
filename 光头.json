@@ -381,6 +381,26 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+     {
+      "key": "哔哩音乐",
+      "name": "哔哩｜音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/哔哩音乐.json"
+    },
+     {
+      "key": "相声小品",
+      "name": "相声｜小品",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./hccx/哔哩相声.json"
     }
   ],
   "parses": [
