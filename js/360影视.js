@@ -1,5 +1,5 @@
 var rule = {
-    title:'360影视',
+    title:'光头祝您观影愉快',
     host:'https://www.360kan.com',
     homeUrl:'https://api.web.360kan.com/v1/rank?cat=2&size=9',
     detailUrl:'https://api.web.360kan.com/v1/detail?cat=fyclass&id=fyid',
