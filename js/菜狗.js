@@ -1,5 +1,5 @@
 var rule = {
-    title:'菜狗',
+    title:'光头祝您观影愉快',
     host:'https://waptv.sogou.com',
     homeUrl:'',
     searchUrl:'/film/result?ie=utf8&query=**',
