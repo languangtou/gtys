@@ -1,5 +1,5 @@
 var rule = {
-    title:'奇珍异兽',
+    title:'光头祝您观影愉快',
     host:'https://www.iqiyi.com',
     homeUrl:'',
     // detailUrl:'https://pcw-api.iqiyi.com/albums/album/avlistinfo?aid=fyid&size=2000&page=1',
