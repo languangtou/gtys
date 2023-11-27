@@ -24,35 +24,35 @@
     },
      {
       "key": "drpy_js_360影视",
-      "name": "官源 | 360[js]",
+      "name": "转圈",
       "type": 3,
       "api": "https://jihulab.com/zuiju/lanjingling/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/js/360影视.js"
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "官源 | 爱奇艺[js]",
+      "name": "奇珍异兽",
       "type": 3,
       "api": "https://jihulab.com/zuiju/lanjingling/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/js/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "官源 | 优酷[js]",
+      "name": "酷猫",
       "type": 3,
       "api": "https://jihulab.com/zuiju/lanjingling/-/raw/main/lib/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/js/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "官源 | 腾讯[js]",
+      "name": "腾云驾雾",
       "type": 3,
       "api": "https://jihulab.com/zuiju/lanjingling/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/js/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "官源 | 芒果[js]",
+      "name": "百忙无果",
       "type": 3,
       "api": "https://jihulab.com/zuiju/lanjingling/-/raw/main/lib/drpy2.min.js",
       "ext": "https://jihulab.com/zuiju/lanjingling/-/raw/main/js/百忙无果.js"
@@ -445,6 +445,11 @@
     }
   ],
   "parses": [
+     {
+      "name": "欺上瞒下",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
      {
       "name":"天龙八部",
       "type":1,
