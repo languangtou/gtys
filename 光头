@@ -22,6 +22,48 @@
       "quickSearch": 0,
       "filterable": 0
     },
+     {
+      "key": "腾讯",
+      "name": "天龙八部",
+      "type": 3,
+      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
+      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
+      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/tengxun.js"
+    },
+    {
+      "key": "爱奇异",
+      "name": "神雕侠侣",
+      "type": 3,
+      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
+      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
+      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/iqy.js"
+    },
+   {
+      "key": "drpy_js_优酷",
+      "name": "笑傲江湖",
+      "type": 3,
+      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
+      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
+      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/youku.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "转圈[js]",
+      "type": 3,
+      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
+      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/360影视.js"
+    },
+     {
+      "key": "玩偶哥哥",
+      "name": "玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+
     {
       "key": "csp_骚火",
       "name": "骚火影视|T追剧",
