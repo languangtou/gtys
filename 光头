@@ -23,65 +23,73 @@
       "filterable": 0
     },
      {
-      "key": "腾讯",
-      "name": "天龙八部",
-      "type": 3,
-      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
-      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/tengxun.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "神雕侠侣",
-      "type": 3,
-      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
-      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/iqy.js"
-    },
-   {
-      "key": "drpy_js_优酷",
-      "name": "笑傲江湖",
-      "type": 3,
-      "jar": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/jar/fan.jar",
-      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/youku.js"
-    },
-    {
       "key": "drpy_js_360影视",
-      "name": "转圈[js]",
+      "name": "官源 | 360[js]",
       "type": 3,
-      "api": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/drpy1.min.js",
-      "ext": "https://jihulab.com/guangtoulao/guangtou/-/raw/main/lib/360影视.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源 | 爱奇艺[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "官源 | 腾讯[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源 | 芒果[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "官源 | 搜狗[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
     },
      {
-      "key": "玩偶哥哥",
-      "name": "玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-        "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https:api.wogg.xyz/$$$ Bullet"
-    },
-
-    {
-      "key": "csp_ Riot",
-      "name": "Saohuo Film and Television|." T chasing drama",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https:api.wogg.xyz/$$$ Bullet"
-    },
-
-    {
-      "key": "csp_ Riot",
-      "name": "Saohuo Film and Television|." T chasing drama",
-
+            "key" : "js_v2-sj",
+            "name" :"视界",
+            "type" : 3,
+            "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
+            "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
+        },
+ {
+			"key": "世界",
+			"name": "世界",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://106.52.241.21:83/api.php/app/"
+		},
+     {
+"key": "csp_xBPQ_huhu",
+"name": "两只老虎",
+"type": 3,
+"api": "csp_XBPQ",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 0,
+"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/虎虎.json"},
     {
       "key": "csp_骚火",
       "name": "骚火影视|T追剧",
