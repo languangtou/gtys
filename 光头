@@ -64,32 +64,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/菜狗.js"
     },
-     {
-            "key" : "js_v2-sj",
-            "name" :"视界",
-            "type" : 3,
-            "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://jihulab.com/0004/000/-/raw/main/js/4kshijie.js"
-        },
- {
-			"key": "世界",
-			"name": "世界",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://106.52.241.21:83/api.php/app/"
-		},
-     {
-"key": "csp_xBPQ_huhu",
-"name": "两只老虎",
-"type": 3,
-"api": "csp_XBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/虎虎.json"},
     {
       "key": "csp_骚火",
       "name": "骚火影视|T追剧",
