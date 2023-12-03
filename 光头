@@ -63,6 +63,24 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+        "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https:api.wogg.xyz/$$$ Bullet"
+    },
+
+    {
+      "key": "csp_ Riot",
+      "name": "Saohuo Film and Television|." T chasing drama",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https:api.wogg.xyz/$$$ Bullet"
+    },
+
+    {
+      "key": "csp_ Riot",
+      "name": "Saohuo Film and Television|." T chasing drama",
 
     {
       "key": "csp_骚火",
